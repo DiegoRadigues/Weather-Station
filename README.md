@@ -1,6 +1,7 @@
 # Station Météo - Dashboard Web
 
 Ce projet permet de collecter des données de capteurs (telles que la température, l'humidité, la pression, le bruit, les niveaux de NOx, de CO₂, les informations UV, et les données GPS) à partir d'un microcontrôleur ESP32-S3. Toutes les composantes sont intégrées sur un PCB. Les données sont envoyées vers un serveur web créé avec Node.js, qui les stocke et les rend disponibles via une API REST. Une interface web affiche les données en utilisant des graphiques interactifs et une carte. Ce guide vous aidera à installer et à exécuter ce projet.
+
 ![Capture d'écran 2024-11-22 000724](https://github.com/user-attachments/assets/29230ce6-accf-456a-8797-8a6d42d4b178)
 ![Capture d'écran 2024-11-22 000749](https://github.com/user-attachments/assets/538808bd-6d15-4343-8f71-c2e874a66b47)
 
