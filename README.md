@@ -1,6 +1,10 @@
 # Station Météo - Dashboard Web
 
-Ce projet permet de collecter des données de capteurs (telles que la température, l'humidité, la pression, le bruit, les niveaux de NOx, de CO₂, les informations UV, et les données GPS) à partir d'un microcontrôleur ESP32-S3. Toutes les composantes sont intégrées sur un PCB, et l'utilisateur n'a rien à connecter manuellement. Les données sont envoyées vers un serveur web créé avec Node.js, qui les stocke et les rend disponibles via une API REST. Une interface web affiche les données en utilisant des graphiques interactifs et une carte. Ce guide vous aidera à installer et à exécuter ce projet.
+Ce projet permet de collecter des données de capteurs (telles que la température, l'humidité, la pression, le bruit, les niveaux de NOx, de CO₂, les informations UV, et les données GPS) à partir d'un microcontrôleur ESP32-S3. Toutes les composantes sont intégrées sur un PCB. Les données sont envoyées vers un serveur web créé avec Node.js, qui les stocke et les rend disponibles via une API REST. Une interface web affiche les données en utilisant des graphiques interactifs et une carte. Ce guide vous aidera à installer et à exécuter ce projet.
+![Capture d'écran 2024-11-22 000724](https://github.com/user-attachments/assets/29230ce6-accf-456a-8797-8a6d42d4b178)
+![Capture d'écran 2024-11-22 000749](https://github.com/user-attachments/assets/538808bd-6d15-4343-8f71-c2e874a66b47)
+
+
 
 ## Prérequis
 
@@ -67,9 +71,8 @@ Ce projet permet de collecter des données de capteurs (telles que la températu
 ## Développement Logiciel
 
 1. **Programmation de l'ESP32-S3** :
-   - L'ESP32-S3 est programmé pour lire les données des capteurs via différents protocoles (I2C, UART, SPI) et les envoyer au serveur web. Tous les capteurs sont déjà intégrés sur le PCB, donc aucune connexion manuelle n'est requise.
+   - L'ESP32-S3 est programmé pour lire les données des capteurs via différents protocoles (I2C, UART, SPI) et les envoyer au serveur web. Veillez à bien connecter les capteurs aux headers de la carte PCB en respectant indications sur les pins
    - **Collecte des données** : Le code Arduino sur l'ESP32-S3 lit chaque capteur à des intervalles réguliers (ex. toutes les 60 secondes) et construit un objet JSON qui est ensuite envoyé via une requête HTTP POST à l'API `/api/data` du serveur Node.js.
-   - **Gestion de l'alimentation et veille** : Pour optimiser la consommation d'énergie, vous pouvez utiliser le mode de veille profonde de l'ESP32 entre les cycles de mesure des capteurs. Cela est particulièrement utile si le projet est destiné à une utilisation en extérieur alimentée par une batterie.
 
 2. **Développement du Serveur Node.js** :
    - Le serveur utilise **Express.js** pour gérer les requêtes HTTP reçues de l'ESP32-S3.
@@ -78,23 +81,7 @@ Ce projet permet de collecter des données de capteurs (telles que la températu
 
    - **Améliorations possibles** :
      - Ajouter des vérifications pour les valeurs reçues. Par exemple, ignorer les données si elles sont en dehors des plages valides.
-     - Implémenter une base de données (comme **MongoDB**) pour stocker les données, ce qui permettrait de gérer plus efficacement des volumes importants de données et d'effectuer des analyses historiques.
-
-3. **Interface Utilisateur Web** :
-   - Le fichier `index.html` utilise **Chart.js** pour visualiser la température, l'humidité, la pression, le niveau de bruit, et d'autres mesures sous forme de graphiques interactifs.
-   - Une carte est générée avec **Leaflet.js** pour afficher les informations GPS et localiser la station météo en temps réel.
-   - Les données sont récupérées en utilisant l'API **GET `/api/data`**, puis sont mises à jour automatiquement toutes les minutes pour assurer que l'utilisateur voit toujours les dernières informations collectées.
-
-   - **JavaScript pour Actualiser les Données** :
-     ```js
-     async function fetchData() {
-       const response = await fetch('/api/data');
-       const data = await response.json();
-       // Mise à jour des graphiques et de la carte avec les nouvelles données
-     }
-
-     setInterval(fetchData, 60000); // Actualiser les données toutes les 60 secondes
-     ```
+     - Implémenter une base de données pour stocker les données, ce qui permettrait de gérer plus efficacement des volumes importants de données et d'effectuer des analyses historiques.
 
 ## Lancer le Serveur
 
@@ -112,6 +99,12 @@ Ce projet permet de collecter des données de capteurs (telles que la températu
    ```
 
    Vous verrez une interface web affichant les données collectées sous forme de graphiques et sur une carte.
+
+   la page
+   ```
+   http://localhost:3000/api/data
+   ```
+   Vous permettra de visualiser les données qui transitent vers votre serveur
 
 ## Utilisation de l'API
 
@@ -149,14 +142,13 @@ Voici la structure des fichiers pour ce projet :
 Station_Meteo/
   |- public/
       |- index.html       # Interface web pour visualiser les données
+      |- style.css            # Fichier de style pour l'interface web
   |- data.json            # Fichier de stockage des données
   |- server.js            # Serveur Node.js
-  |- style.css            # Fichier de style pour l'interface web
-  |- package.json         # Fichier de dépendances Node.js
-```
+
 
 ## Notes Finales
 
-Ce projet peut être étendu pour supporter davantage de capteurs ou être connecté à une base de données pour la persistance des données à long terme. Vous pouvez également améliorer l'interface web en utilisant des frameworks comme **React** ou **Vue.js**.
+Ce projet peut être étendu pour supporter davantage de capteurs ou être connecté à une base de données pour la persistance des données à long terme. Vous pouvez également améliorer l'interface web en utilisant des frameworks comme **React** ou **Vue.js**. N'hésitez pas à me partager vos améliorations
 
 Enjoy ! 
