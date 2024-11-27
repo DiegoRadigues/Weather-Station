@@ -1,0 +1,2352 @@
+[
+  {
+    "temperatureBMP": 18.1,
+    "temperatureDHT": null,
+    "pression": 994.55,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:45:02.200Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "temperatureDHT": null,
+    "pression": 994.37,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:48:45.235Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 994.4,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:49:46.058Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 994.32,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:50:46.475Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.41,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:51:47.504Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.39,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:52:16.589Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.38,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:52:19.456Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.41,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:52:48.538Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.35,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:53:48.340Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.37,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:54:48.348Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.32,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:55:48.560Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.28,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:56:49.591Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.28,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:57:50.007Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.33,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:58:50.840Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.26,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T18:59:51.457Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "temperatureDHT": null,
+    "pression": 994.28,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:00:52.515Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 994.39,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:01:53.111Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.38,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:02:13.591Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.28,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:02:55.371Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.24,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:03:55.583Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.38,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:04:55.999Z"
+  },
+  {
+    "temperatureBMP": 17.8,
+    "temperatureDHT": null,
+    "pression": 994.35,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:05:56.416Z"
+  },
+  {
+    "temperatureBMP": 17.8,
+    "temperatureDHT": null,
+    "pression": 994.34,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:06:56.649Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.28,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:07:57.248Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.29,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:08:59.301Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 994.33,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:10:01.154Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.27,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:11:03.415Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.19,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:12:58.117Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.14,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:13:59.548Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.2,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:15:00.383Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.28,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:16:00.995Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.25,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:17:01.412Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.3,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:18:02.460Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.25,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:19:02.451Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 994.41,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:20:05.737Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 994.38,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:21:02.971Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 994.49,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:22:03.497Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.47,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:23:04.345Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 994.47,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:24:04.124Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 994.42,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:25:04.541Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.35,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:26:05.268Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.41,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:27:05.992Z"
+  },
+  {
+    "temperatureBMP": 17.8,
+    "temperatureDHT": null,
+    "pression": 994.32,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:28:06.614Z"
+  },
+  {
+    "temperatureBMP": 18.3,
+    "temperatureDHT": null,
+    "pression": 994.41,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:29:07.437Z"
+  },
+  {
+    "temperatureBMP": 18.3,
+    "temperatureDHT": null,
+    "pression": 994.48,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:29:44.100Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "temperatureDHT": null,
+    "pression": 994.54,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:30:08.470Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "temperatureDHT": null,
+    "pression": 994.51,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:30:40.623Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "temperatureDHT": null,
+    "pression": 994.5,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:31:08.888Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 994.61,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:32:08.689Z"
+  },
+  {
+    "temperatureBMP": 17.7,
+    "temperatureDHT": null,
+    "pression": 994.53,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:33:09.614Z"
+  },
+  {
+    "temperatureBMP": 17.7,
+    "temperatureDHT": null,
+    "pression": 994.64,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:34:10.340Z"
+  },
+  {
+    "temperatureBMP": 17.5,
+    "temperatureDHT": null,
+    "pression": 994.62,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:35:10.859Z"
+  },
+  {
+    "temperatureBMP": 17.6,
+    "temperatureDHT": null,
+    "pression": 994.63,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:36:10.764Z"
+  },
+  {
+    "temperatureBMP": 17.7,
+    "temperatureDHT": null,
+    "pression": 994.61,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:37:11.595Z"
+  },
+  {
+    "temperatureBMP": 17.7,
+    "temperatureDHT": null,
+    "pression": 994.61,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:38:11.807Z"
+  },
+  {
+    "temperatureBMP": 17.6,
+    "temperatureDHT": null,
+    "pression": 994.66,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:39:12.835Z"
+  },
+  {
+    "temperatureBMP": 17.4,
+    "temperatureDHT": null,
+    "pression": 994.69,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:40:14.073Z"
+  },
+  {
+    "temperatureBMP": 17.4,
+    "temperatureDHT": null,
+    "pression": 994.54,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:41:14.694Z"
+  },
+  {
+    "temperatureBMP": 17.5,
+    "temperatureDHT": null,
+    "pression": 994.71,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:42:15.522Z"
+  },
+  {
+    "temperatureBMP": 17.6,
+    "temperatureDHT": null,
+    "pression": 994.72,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:43:15.529Z"
+  },
+  {
+    "temperatureBMP": 17.6,
+    "temperatureDHT": null,
+    "pression": 994.71,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:44:15.538Z"
+  },
+  {
+    "temperatureBMP": 17.6,
+    "temperatureDHT": null,
+    "pression": 994.69,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:45:15.953Z"
+  },
+  {
+    "temperatureBMP": 17.7,
+    "temperatureDHT": null,
+    "pression": 994.75,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:46:16.576Z"
+  },
+  {
+    "temperatureBMP": 17.7,
+    "temperatureDHT": null,
+    "pression": 994.75,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:47:17.917Z"
+  },
+  {
+    "temperatureBMP": 17.7,
+    "temperatureDHT": null,
+    "pression": 994.81,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:48:18.228Z"
+  },
+  {
+    "temperatureBMP": 17.7,
+    "temperatureDHT": null,
+    "pression": 994.86,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:49:19.059Z"
+  },
+  {
+    "temperatureBMP": 17.8,
+    "temperatureDHT": null,
+    "pression": 994.85,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:50:19.678Z"
+  },
+  {
+    "temperatureBMP": 17.8,
+    "temperatureDHT": null,
+    "pression": 994.85,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:50:52.959Z"
+  },
+  {
+    "temperatureBMP": 17.8,
+    "temperatureDHT": null,
+    "pression": 994.96,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:51:19.891Z"
+  },
+  {
+    "temperatureBMP": 17.8,
+    "temperatureDHT": null,
+    "pression": 994.99,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:51:21.544Z"
+  },
+  {
+    "temperatureBMP": 17.8,
+    "temperatureDHT": null,
+    "pression": 995.01,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:51:36.274Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.98,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:52:20.019Z"
+  },
+  {
+    "temperatureBMP": 17.9,
+    "temperatureDHT": null,
+    "pression": 994.98,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:53:20.109Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 995.02,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:54:20.115Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 995.03,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:55:20.738Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 995.03,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:56:08.661Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 995.03,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:56:21.358Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 995.02,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:58:18.447Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 995.03,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T19:59:20.255Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "temperatureDHT": null,
+    "pression": 995.01,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:00:20.671Z"
+  },
+  {
+    "temperatureBMP": 18.2,
+    "temperatureDHT": null,
+    "pression": 995.07,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:01:21.501Z"
+  },
+  {
+    "temperatureBMP": 18.2,
+    "temperatureDHT": null,
+    "pression": 995.11,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:01:59.390Z"
+  },
+  {
+    "temperatureBMP": 18.2,
+    "temperatureDHT": null,
+    "pression": 995.05,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:02:05.737Z"
+  },
+  {
+    "temperatureBMP": 18.2,
+    "temperatureDHT": null,
+    "pression": 995.13,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:02:10.858Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "temperatureDHT": null,
+    "pression": 994.95,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:02:20.073Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "temperatureDHT": null,
+    "pression": 994.99,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:02:21.713Z"
+  },
+  {
+    "temperatureBMP": 18.2,
+    "temperatureDHT": null,
+    "pression": 995.09,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:03:22.757Z"
+  },
+  {
+    "temperatureBMP": 18.2,
+    "temperatureDHT": null,
+    "pression": 994.98,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:04:23.976Z"
+  },
+  {
+    "temperatureBMP": 18.3,
+    "temperatureDHT": null,
+    "pression": 995.01,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:05:24.601Z"
+  },
+  {
+    "temperatureBMP": 18.4,
+    "temperatureDHT": null,
+    "pression": 994.99,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:06:22.969Z"
+  },
+  {
+    "temperatureBMP": 18.4,
+    "temperatureDHT": null,
+    "pression": 995,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:06:24.609Z"
+  },
+  {
+    "temperatureBMP": 18.4,
+    "temperatureDHT": null,
+    "pression": 994.98,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:07:24.616Z"
+  },
+  {
+    "temperatureBMP": 18.5,
+    "temperatureDHT": null,
+    "pression": 995.02,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:08:25.238Z"
+  },
+  {
+    "temperatureBMP": 18.5,
+    "temperatureDHT": null,
+    "pression": 994.96,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:09:26.063Z"
+  },
+  {
+    "temperatureBMP": 18.6,
+    "temperatureDHT": null,
+    "pression": 995.03,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:10:26.483Z"
+  },
+  {
+    "temperatureBMP": 18.6,
+    "temperatureDHT": null,
+    "pression": 995.02,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:11:27.514Z"
+  },
+  {
+    "temperatureBMP": 19.1,
+    "pression": 995.2,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:24:29.655Z"
+  },
+  {
+    "temperatureBMP": 19.1,
+    "pression": 995.15,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:25:30.074Z"
+  },
+  {
+    "temperatureBMP": 19.1,
+    "pression": 995.13,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:26:31.307Z"
+  },
+  {
+    "temperatureBMP": 19.1,
+    "pression": 995.19,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:27:31.418Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "pression": 995.22,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:28:31.323Z"
+  },
+  {
+    "temperatureBMP": 19.1,
+    "pression": 995.24,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:29:31.541Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "pression": 995.25,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:30:31.952Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "pression": 995.23,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:31:32.376Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "pression": 995.24,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:32:33.195Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "pression": 995.38,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:33:33.409Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "pression": 995.39,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:34:34.646Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "pression": 995.36,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:35:35.677Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "pression": 995.3,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:36:36.504Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "pression": 995.46,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:37:36.921Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "pression": 995.52,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:41:48.014Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "pression": 995.5,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:42:48.426Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "pression": 995.47,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:43:49.660Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "pression": 995.56,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:44:50.082Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "pression": 995.48,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:45:50.906Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "pression": 995.52,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:46:51.728Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "pression": 995.55,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:47:52.157Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "pression": 995.43,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:48:52.157Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "pression": 995.52,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:49:53.189Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "pression": 995.5,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:50:54.427Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "pression": 995.51,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:51:54.841Z"
+  },
+  {
+    "temperatureBMP": 20.3,
+    "pression": 995.56,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:52:55.484Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "pression": 995.54,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:53:58.338Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "pression": 995.54,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:54:56.705Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "pression": 995.29,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:55:59.581Z"
+  },
+  {
+    "temperatureBMP": 20.2,
+    "pression": 995.52,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:56:59.386Z"
+  },
+  {
+    "temperatureBMP": 20.2,
+    "pression": 995.64,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:57:56.933Z"
+  },
+  {
+    "temperatureBMP": 20.3,
+    "pression": 995.62,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:58:56.738Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "pression": 995.7,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-20T20:59:57.155Z"
+  },
+  {
+    "temperatureBMP": 18.3,
+    "pression": 988.85,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:08:27.802Z"
+  },
+  {
+    "temperatureBMP": 18.2,
+    "pression": 988.85,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:09:21.165Z"
+  },
+  {
+    "temperatureBMP": 18.2,
+    "pression": 988.83,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:10:22.199Z"
+  },
+  {
+    "temperatureBMP": 18.2,
+    "pression": 988.83,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:11:22.521Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "pression": 988.89,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:12:22.316Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "pression": 988.77,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:13:22.627Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "pression": 988.78,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:14:23.046Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "pression": 988.78,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:15:23.458Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "pression": 988.82,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:16:24.085Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "pression": 988.83,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:17:24.502Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "pression": 988.79,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:18:24.624Z"
+  },
+  {
+    "temperatureBMP": 18.1,
+    "pression": 988.87,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:19:25.444Z"
+  },
+  {
+    "temperatureBMP": 18.2,
+    "pression": 988.86,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:20:25.663Z"
+  },
+  {
+    "temperatureBMP": 18.3,
+    "pression": 988.89,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:21:26.086Z"
+  },
+  {
+    "temperatureBMP": 18.4,
+    "pression": 988.88,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:22:26.785Z"
+  },
+  {
+    "temperatureBMP": 18.4,
+    "pression": 988.93,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:23:27.932Z"
+  },
+  {
+    "temperatureBMP": 18.4,
+    "pression": 988.96,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:24:28.146Z"
+  },
+  {
+    "temperatureBMP": 18.4,
+    "pression": 988.94,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:25:28.978Z"
+  },
+  {
+    "temperatureBMP": 18.5,
+    "pression": 988.99,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:26:29.480Z"
+  },
+  {
+    "temperatureBMP": 18.5,
+    "pression": 989.02,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:27:30.301Z"
+  },
+  {
+    "temperatureBMP": 18.5,
+    "pression": 989.01,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:28:30.313Z"
+  },
+  {
+    "temperatureBMP": 18.5,
+    "pression": 989,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:29:31.663Z"
+  },
+  {
+    "temperatureBMP": 18.5,
+    "pression": 989.07,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:30:31.574Z"
+  },
+  {
+    "temperatureBMP": 18.6,
+    "pression": 988.97,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:31:31.971Z"
+  },
+  {
+    "temperatureBMP": 18.7,
+    "pression": 988.99,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:32:32.594Z"
+  },
+  {
+    "temperatureBMP": 18.7,
+    "pression": 989.01,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:33:33.954Z"
+  },
+  {
+    "temperatureBMP": 18.8,
+    "pression": 988.99,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:34:34.047Z"
+  },
+  {
+    "temperatureBMP": 18.9,
+    "pression": 988.97,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:35:34.873Z"
+  },
+  {
+    "temperatureBMP": 18.9,
+    "pression": 989,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:36:35.080Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "pression": 989.08,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:37:36.112Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "pression": 989.04,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:38:39.601Z"
+  },
+  {
+    "temperatureBMP": 19.1,
+    "pression": 989.07,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:39:37.561Z"
+  },
+  {
+    "temperatureBMP": 19.1,
+    "pression": 988.95,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:40:38.183Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "pression": 989.04,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:46:17.812Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "pression": 989.06,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:47:18.433Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "pression": 989.11,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:48:18.459Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "pression": 989.11,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:49:19.065Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "pression": 989.09,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:50:18.920Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "pression": 989.1,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:51:19.897Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "pression": 989.06,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:52:19.907Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "pression": 989.09,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:53:21.256Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "pression": 989.09,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:54:21.559Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "pression": 989.09,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:55:22.904Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "pression": 989.05,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:56:23.211Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "pression": 989.14,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:57:24.037Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "pression": 989.17,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:58:24.974Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "pression": 989.14,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T22:59:25.283Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "pression": 989.12,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:00:25.601Z"
+  },
+  {
+    "temperatureBMP": 20.3,
+    "pression": 989.19,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:01:25.908Z"
+  },
+  {
+    "temperatureBMP": 20.3,
+    "pression": 989.24,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:02:26.734Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "pression": 989.24,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:03:27.154Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "pression": 989.32,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:04:27.572Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "pression": 989.28,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:05:28.716Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "pression": 989.32,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:06:28.811Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "pression": 989.41,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:07:29.237Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "pression": 989.38,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:08:29.759Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "pression": 989.45,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:09:30.396Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "pression": 989.32,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:10:29.867Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "pression": 989.44,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:11:30.902Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 989.41,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:12:31.627Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 989.44,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:13:31.518Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 989.45,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:14:32.870Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 989.46,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:15:34.099Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 989.5,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:16:35.342Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 989.58,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-21T23:17:35.246Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "pression": 996.14,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:40:56.058Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "pression": 996.1,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:41:57.083Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "pression": 996.12,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:42:56.678Z"
+  },
+  {
+    "temperatureBMP": 21.7,
+    "pression": 996.29,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:43:56.692Z"
+  },
+  {
+    "temperatureBMP": 21.7,
+    "pression": 996.11,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:44:57.309Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "pression": 996.14,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:45:58.340Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "pression": 996.16,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:46:59.373Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "pression": 996.17,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:48:00.404Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "pression": 996.19,
+    "humidite": null,
+    "MQ_analogique": 379,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:49:07.584Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "pression": 996.11,
+    "humidite": null,
+    "MQ_analogique": 355,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:50:33.615Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "pression": 996.2,
+    "humidite": null,
+    "MQ_analogique": 345,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:51:34.333Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "pression": 996.26,
+    "humidite": null,
+    "MQ_analogique": 299,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:52:34.545Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "pression": 996.1,
+    "humidite": null,
+    "MQ_analogique": 319,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:53:34.847Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "pression": 996.13,
+    "humidite": null,
+    "MQ_analogique": 310,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:54:35.676Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "pression": 996.1,
+    "humidite": null,
+    "MQ_analogique": 363,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:55:36.308Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "pression": 996.2,
+    "humidite": null,
+    "MQ_analogique": 367,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:56:36.721Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "pression": 996.19,
+    "humidite": null,
+    "MQ_analogique": 349,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:57:37.658Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "pression": 996.18,
+    "humidite": null,
+    "MQ_analogique": 302,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:58:37.546Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "pression": 996.2,
+    "humidite": null,
+    "MQ_analogique": 309,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T12:59:37.761Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "pression": 996.2,
+    "humidite": null,
+    "MQ_analogique": 313,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T13:00:37.562Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "pression": 996.26,
+    "humidite": null,
+    "MQ_analogique": 339,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T13:01:37.773Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "pression": 996.25,
+    "humidite": null,
+    "MQ_analogique": 333,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T13:02:41.782Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "pression": 996.21,
+    "humidite": null,
+    "MQ_analogique": 333,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T13:03:41.692Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "pression": 996.23,
+    "humidite": null,
+    "MQ_analogique": 320,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T13:04:41.897Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "pression": 996.22,
+    "humidite": null,
+    "MQ_analogique": 311,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-11-22T13:05:42.516Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "pression": 996.31,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 321,
+    "timestamp": "2024-11-22T13:07:13.160Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "pression": 996.33,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 325,
+    "timestamp": "2024-11-22T13:08:14.188Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "pression": 996.25,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 334,
+    "timestamp": "2024-11-22T13:09:14.685Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "pression": 996.27,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 339,
+    "timestamp": "2024-11-22T13:09:52.367Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "pression": 996.24,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 326,
+    "timestamp": "2024-11-22T13:10:15.315Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "pression": 996.26,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 367,
+    "timestamp": "2024-11-22T13:11:16.547Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "pression": 996.35,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 339,
+    "timestamp": "2024-11-22T13:12:17.383Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "pression": 996.39,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 341,
+    "timestamp": "2024-11-22T13:13:17.993Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "pression": 996.28,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 357,
+    "timestamp": "2024-11-22T13:14:19.545Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.39,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 296,
+    "timestamp": "2024-11-22T13:15:19.757Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.42,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 341,
+    "timestamp": "2024-11-22T13:16:19.450Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.4,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 338,
+    "timestamp": "2024-11-22T13:17:20.481Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.33,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 378,
+    "timestamp": "2024-11-22T13:18:20.699Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "pression": 996.3,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 337,
+    "timestamp": "2024-11-22T13:19:22.048Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.45,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 342,
+    "timestamp": "2024-11-22T13:20:22.348Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.37,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 313,
+    "timestamp": "2024-11-22T13:21:22.971Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.28,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 380,
+    "timestamp": "2024-11-22T13:22:22.976Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.35,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 327,
+    "timestamp": "2024-11-22T13:23:23.461Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.35,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 303,
+    "timestamp": "2024-11-22T13:24:23.808Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.37,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 373,
+    "timestamp": "2024-11-22T13:25:09.480Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.3,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 373,
+    "timestamp": "2024-11-22T13:25:14.600Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.34,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 331,
+    "timestamp": "2024-11-22T13:25:25.273Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.32,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 332,
+    "timestamp": "2024-11-22T13:25:31.102Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.33,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 332,
+    "timestamp": "2024-11-22T13:25:34.265Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.31,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 351,
+    "timestamp": "2024-11-22T13:25:37.543Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.36,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 338,
+    "timestamp": "2024-11-22T13:25:50.854Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.29,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 328,
+    "timestamp": "2024-11-22T13:25:52.490Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.33,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 357,
+    "timestamp": "2024-11-22T13:26:06.729Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.39,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 341,
+    "timestamp": "2024-11-22T13:26:08.777Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.4,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 347,
+    "timestamp": "2024-11-22T13:26:10.513Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.34,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 339,
+    "timestamp": "2024-11-22T13:26:25.466Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.33,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 335,
+    "timestamp": "2024-11-22T13:26:35.704Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.3,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 364,
+    "timestamp": "2024-11-22T13:26:39.095Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.5,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 349,
+    "timestamp": "2024-11-22T13:27:14.819Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 996.36,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 348,
+    "timestamp": "2024-11-22T13:27:25.060Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 996.38,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 287,
+    "timestamp": "2024-11-22T13:27:27.220Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.35,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 337,
+    "timestamp": "2024-11-22T13:28:27.633Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 996.39,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 279,
+    "timestamp": "2024-11-22T13:29:28.561Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 996.41,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 40,
+    "timestamp": "2024-11-22T13:31:50.896Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 996.42,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 301,
+    "timestamp": "2024-11-22T13:32:51.313Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "pression": 996.39,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 366,
+    "timestamp": "2024-11-22T13:33:52.357Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "pression": 996.36,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 345,
+    "timestamp": "2024-11-22T13:34:52.350Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "pression": 996.36,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 349,
+    "timestamp": "2024-11-22T13:35:53.796Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "pression": 996.3,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 331,
+    "timestamp": "2024-11-22T13:36:54.414Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "pression": 996.4,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 345,
+    "timestamp": "2024-11-22T13:37:54.827Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "pression": 996.4,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 345,
+    "timestamp": "2024-11-22T13:38:55.452Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "pression": 996.38,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 339,
+    "timestamp": "2024-11-22T13:38:58.318Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "pression": 996.4,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 335,
+    "timestamp": "2024-11-22T13:39:12.157Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "pression": 996.4,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 338,
+    "timestamp": "2024-11-22T13:39:14.291Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "pression": 996.4,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 331,
+    "timestamp": "2024-11-22T13:39:55.456Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "pression": 996.29,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 333,
+    "timestamp": "2024-11-22T13:40:55.876Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "pression": 996.27,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 332,
+    "timestamp": "2024-11-22T13:41:56.293Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "pression": 996.22,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 331,
+    "timestamp": "2024-11-22T13:42:57.117Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "pression": 996.28,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 330,
+    "timestamp": "2024-11-22T13:43:58.874Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "pression": 996.42,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 334,
+    "timestamp": "2024-11-22T13:44:58.573Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "pression": 996.39,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 329,
+    "timestamp": "2024-11-22T13:45:59.506Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "pression": 996.43,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 319,
+    "timestamp": "2024-11-22T13:46:59.606Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 996.4,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 332,
+    "timestamp": "2024-11-22T13:47:59.616Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 996.43,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 327,
+    "timestamp": "2024-11-22T13:49:00.760Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "pression": 996.48,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 327,
+    "timestamp": "2024-11-22T13:50:00.764Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "pression": 996.36,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 319,
+    "timestamp": "2024-11-22T13:51:01.786Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "pression": 996.58,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 333,
+    "timestamp": "2024-11-22T13:52:02.099Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "pression": 996.56,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 330,
+    "timestamp": "2024-11-22T13:54:06.007Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "pression": 996.52,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 343,
+    "timestamp": "2024-11-22T13:58:18.840Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "pression": 996.52,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 342,
+    "timestamp": "2024-11-22T14:03:40.169Z"
+  },
+  {
+    "temperatureBMP": 25.4,
+    "pression": 996.56,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 341,
+    "timestamp": "2024-11-22T14:07:47.940Z"
+  },
+  {
+    "temperatureBMP": 30,
+    "pression": 996.57,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 341,
+    "timestamp": "2024-11-22T14:08:49.178Z"
+  },
+  {
+    "temperatureBMP": 30.7,
+    "pression": 996.48,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 344,
+    "timestamp": "2024-11-22T14:09:00.646Z"
+  },
+  {
+    "temperatureBMP": 25.8,
+    "pression": 996.47,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 350,
+    "timestamp": "2024-11-22T14:09:49.389Z"
+  },
+  {
+    "temperatureBMP": 22.5,
+    "pression": 996.32,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 343,
+    "timestamp": "2024-11-22T14:10:49.804Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "pression": 996.48,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 339,
+    "timestamp": "2024-11-22T14:11:52.420Z"
+  },
+  {
+    "temperatureBMP": 20.3,
+    "pression": 996.61,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 340,
+    "timestamp": "2024-11-22T14:12:52.688Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "pression": 996.61,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 333,
+    "timestamp": "2024-11-22T14:13:52.906Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "pression": 996.52,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 331,
+    "timestamp": "2024-11-22T14:14:53.687Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "pression": 996.74,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 339,
+    "timestamp": "2024-11-22T14:15:54.751Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "pression": 996.6,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 329,
+    "timestamp": "2024-11-22T14:16:54.766Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "pression": 996.77,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 333,
+    "timestamp": "2024-11-22T14:17:55.389Z"
+  },
+  {
+    "temperatureBMP": 18.9,
+    "pression": 996.66,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 343,
+    "timestamp": "2024-11-22T14:18:26.725Z"
+  },
+  {
+    "temperatureBMP": 18.4,
+    "pression": 996.59,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 334,
+    "timestamp": "2024-11-22T14:18:55.806Z"
+  },
+  {
+    "temperatureBMP": 17.6,
+    "pression": 996.72,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 356,
+    "timestamp": "2024-11-22T14:19:56.428Z"
+  },
+  {
+    "temperatureBMP": 17.7,
+    "pression": 996.64,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 355,
+    "timestamp": "2024-11-22T14:20:57.048Z"
+  },
+  {
+    "temperatureBMP": 18,
+    "pression": 996.73,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 358,
+    "timestamp": "2024-11-22T14:21:57.888Z"
+  },
+  {
+    "temperatureBMP": 18.4,
+    "pression": 996.78,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 350,
+    "timestamp": "2024-11-22T14:22:25.320Z"
+  },
+  {
+    "temperatureBMP": 18.7,
+    "pression": 996.74,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 343,
+    "timestamp": "2024-11-22T14:22:58.495Z"
+  },
+  {
+    "temperatureBMP": 18.6,
+    "pression": 996.87,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 333,
+    "timestamp": "2024-11-22T14:23:58.707Z"
+  },
+  {
+    "temperatureBMP": 18.9,
+    "pression": 996.82,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 331,
+    "timestamp": "2024-11-22T14:24:59.563Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "pression": 996.85,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 349,
+    "timestamp": "2024-11-22T14:25:59.792Z"
+  },
+  {
+    "temperatureBMP": 25.8,
+    "pression": 996.7,
+    "humidite": null,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "MQ_analogique": 355,
+    "timestamp": "2024-11-22T14:27:00.779Z"
+  }
+]

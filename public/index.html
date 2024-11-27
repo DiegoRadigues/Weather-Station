@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Station Météo - Tableau de Bord</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+  <h1>Station Météo</h1>
+
+  <!-- Conteneurs alignés en deux colonnes -->
+  <div class="container-horizontal">
+    <!-- Statut de l'ESP -->
+    <div id="status-container">
+      <h2>Status de l'ESP32</h2>
+      <p id="esp-status">Chargement...</p>
+    </div>
+
+    <!-- Déclenchement d'une mesure immédiate -->
+    <div id="trigger-container">
+      <h2>Déclencher une mesure immédiate</h2>
+      <button id="trigger-measurement-button">Faire une mesure maintenant</button>
+      <p id="trigger-status"></p>
+    </div>
+  </div>
+
+  <!-- Dashboard des données mesurées -->
+  <div class="dashboard">
+    <div class="chart-container">
+      <canvas id="temperatureChart"></canvas>
+    </div>
+    <div class="chart-container">
+      <canvas id="pressionChart"></canvas>
+    </div>
+    <div class="chart-container">
+      <canvas id="gazChart"></canvas>
+    </div>
+    <div class="map-container">
+      <div id="mapid"></div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
