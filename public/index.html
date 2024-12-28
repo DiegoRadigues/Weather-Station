@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Weather Station - Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+  <h1>Station 01</h1>
+
+
+  <!-- Two-column containers -->
+  <div class="container-horizontal">
+    <!-- ESP Status -->
+    <div id="status-container">
+      <h2>Status</h2>
+      <p id="esp-status">Loading...</p>
+    </div>
+
+    <!-- Trigger immediate measurement -->
+    <div id="trigger-container">
+      <h2>Trigger Immediate Measurement</h2>
+      <button id="trigger-measurement-button">Take Measurement Now</button>
+      <p id="trigger-status"></p>
+    </div>
+  </div>
+
+    <!-- Map -->
+    <div class="map-container">
+      <div id="mapid"></div>
+    </div>
+  </div>
+
+  <!-- Measured data dashboard -->
+  <div class="dashboard">
+    <!-- Combined temperature chart -->
+    <div class="chart-container">
+      <canvas id="temperatureChart"></canvas>
+    </div>
+    <!-- Other charts -->
+    <div class="chart-container">
+      <canvas id="pressionChart"></canvas>
+    </div>
+    <div class="chart-container">
+      <canvas id="humiditéChart"></canvas>
+    </div>
+    <div class="chart-container">
+      <canvas id="gazChart"></canvas>
+    </div>
+    <div class="chart-container">
+      <canvas id="niveauSonoreChart"></canvas>
+    </div>
+
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

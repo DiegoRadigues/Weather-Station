@@ -1,0 +1,151 @@
+/* Styles généraux */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-top: 20px;
+  color: #2c3e50;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color: #34495e;
+}
+
+p {
+  font-size: 1em;
+  margin: 5px 0;
+}
+
+/* Conteneurs principaux */
+#status-container,
+#trigger-container {
+  flex: 1 1 45%; /* Deux conteneurs par ligne */
+  max-width: 500px; /* Largeur maximale pour éviter qu'ils ne s'étendent trop */
+  min-width: 300px; /* Largeur minimale pour préserver la lisibilité */
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  margin: 20px;
+}
+
+/* Conteneur horizontal pour les sections */
+.container-horizontal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+/* Boutons */
+button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+button:active {
+  background-color: #1c5f87;
+}
+
+button:disabled {
+  background-color: #bdc3c7;
+  cursor: not-allowed;
+}
+
+/* Status Messages */
+#esp-status {
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#esp-status.green {
+  background-color: #2ecc71;
+  color: white;
+}
+
+#esp-status.red {
+  background-color: #e74c3c;
+  color: white;
+}
+
+#update-status,
+#trigger-status {
+  margin-top: 10px;
+  font-style: italic;
+  color: #7f8c8d;
+}
+
+/* Styles des graphiques */
+.chart-container {
+  height: 300px; /* Hauteur des graphiques */
+  width: 100%;   /* Largeur pleine */
+  margin: 20px auto;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Carte */
+.map-container {
+  height: 400px;
+  width: 100%;
+  margin: 20px auto;
+  background-color: #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#mapid {
+  height: 100%;
+  width: 100%;
+  border-radius: 8px;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  #status-container,
+  #trigger-container {
+    flex: 1 1 100%; /* Un conteneur par ligne sur les écrans moyens */
+  }
+}
+
+@media (max-width: 768px) {
+  .container-horizontal {
+    flex-direction: column; /* Une colonne sur les petits écrans */
+    align-items: center;
+  }
+
+  #status-container,
+  #trigger-container {
+    width: 90%; /* Réduire la largeur pour les petits écrans */
+  }
+
+  .map-container {
+    height: 300px; /* Réduire la hauteur de la carte sur les petits écrans */
+  }
+}

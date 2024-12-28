@@ -1,0 +1,6142 @@
+[
+  {
+    "temperatureBMP": 25.1,
+    "temperatureDHT": 26.4,
+    "pression": 1013.61,
+    "humidite": 28,
+    "MQ_analogique": 1117,
+    "niveauSonoreDBSPL": 57.49,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:30:42.559Z"
+  },
+  {
+    "temperatureBMP": 25,
+    "temperatureDHT": 26.2,
+    "pression": 1013.65,
+    "humidite": 28,
+    "MQ_analogique": 1050,
+    "niveauSonoreDBSPL": 47.66,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:35:42.396Z"
+  },
+  {
+    "temperatureBMP": 25,
+    "temperatureDHT": 26.3,
+    "pression": 1013.64,
+    "humidite": 28,
+    "MQ_analogique": 1079,
+    "niveauSonoreDBSPL": 45.57,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:36:42.403Z"
+  },
+  {
+    "temperatureBMP": 25,
+    "temperatureDHT": 26.3,
+    "pression": 1013.66,
+    "humidite": 28,
+    "MQ_analogique": 1354,
+    "niveauSonoreDBSPL": 61.11,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:37:42.429Z"
+  },
+  {
+    "temperatureBMP": 25,
+    "temperatureDHT": 26.2,
+    "pression": 1013.61,
+    "humidite": 28,
+    "MQ_analogique": 1039,
+    "niveauSonoreDBSPL": 57.1,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:38:42.621Z"
+  },
+  {
+    "temperatureBMP": 24.9,
+    "temperatureDHT": 26.2,
+    "pression": 1013.62,
+    "humidite": 27,
+    "MQ_analogique": 1039,
+    "niveauSonoreDBSPL": 46.7,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:39:42.633Z"
+  },
+  {
+    "temperatureBMP": 24.8,
+    "temperatureDHT": 26.1,
+    "pression": 1013.55,
+    "humidite": 28,
+    "MQ_analogique": 1081,
+    "niveauSonoreDBSPL": 42.78,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:40:42.635Z"
+  },
+  {
+    "temperatureBMP": 24.6,
+    "temperatureDHT": 25.8,
+    "pression": 1013.59,
+    "humidite": 30,
+    "MQ_analogique": 1004,
+    "niveauSonoreDBSPL": 53.04,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:41:42.645Z"
+  },
+  {
+    "temperatureBMP": 24.4,
+    "temperatureDHT": 25.6,
+    "pression": 1013.6,
+    "humidite": 35,
+    "MQ_analogique": 878,
+    "niveauSonoreDBSPL": 50.19,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:42:42.857Z"
+  },
+  {
+    "temperatureBMP": 24.2,
+    "temperatureDHT": 25.4,
+    "pression": 1013.56,
+    "humidite": 35,
+    "MQ_analogique": 985,
+    "niveauSonoreDBSPL": 54.57,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:43:42.451Z"
+  },
+  {
+    "temperatureBMP": 24,
+    "temperatureDHT": 25.1,
+    "pression": 1013.62,
+    "humidite": 38,
+    "MQ_analogique": 955,
+    "niveauSonoreDBSPL": 63.09,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:44:42.459Z"
+  },
+  {
+    "temperatureBMP": 24.1,
+    "temperatureDHT": 25,
+    "pression": 1013.57,
+    "humidite": 47,
+    "MQ_analogique": 1075,
+    "niveauSonoreDBSPL": 55.42,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:45:42.465Z"
+  },
+  {
+    "temperatureBMP": 24,
+    "temperatureDHT": 24.8,
+    "pression": 1013.58,
+    "humidite": 31,
+    "MQ_analogique": 1032,
+    "niveauSonoreDBSPL": 64.09,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:47:21.180Z"
+  },
+  {
+    "temperatureBMP": 24,
+    "temperatureDHT": 24.6,
+    "pression": 1013.55,
+    "humidite": 30,
+    "MQ_analogique": 1020,
+    "niveauSonoreDBSPL": 56.91,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:48:21.188Z"
+  },
+  {
+    "temperatureBMP": 24,
+    "temperatureDHT": 24.6,
+    "pression": 1013.58,
+    "humidite": 30,
+    "MQ_analogique": 1023,
+    "niveauSonoreDBSPL": 45.69,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:49:21.192Z"
+  },
+  {
+    "temperatureBMP": 24.1,
+    "temperatureDHT": 24.5,
+    "pression": 1013.46,
+    "humidite": 31,
+    "MQ_analogique": 943,
+    "niveauSonoreDBSPL": 56.74,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:50:21.407Z"
+  },
+  {
+    "temperatureBMP": 24.3,
+    "temperatureDHT": 24.5,
+    "pression": 1013.56,
+    "humidite": 31,
+    "MQ_analogique": 1119,
+    "niveauSonoreDBSPL": 63.64,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:51:21.415Z"
+  },
+  {
+    "temperatureBMP": 24.5,
+    "temperatureDHT": 24.7,
+    "pression": 1013.56,
+    "humidite": 30,
+    "MQ_analogique": 1015,
+    "niveauSonoreDBSPL": 59.75,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:52:21.220Z"
+  },
+  {
+    "temperatureBMP": 24.2,
+    "temperatureDHT": 24.7,
+    "pression": 1013.45,
+    "humidite": 30,
+    "MQ_analogique": 1011,
+    "niveauSonoreDBSPL": 46.84,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:53:21.225Z"
+  },
+  {
+    "temperatureBMP": 24,
+    "temperatureDHT": 24.7,
+    "pression": 1013.46,
+    "humidite": 30,
+    "MQ_analogique": 1012,
+    "niveauSonoreDBSPL": 49.9,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-20T14:54:21.296Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23.2,
+    "pression": 1025.68,
+    "humidite": 41,
+    "MQ_analogique": 1709,
+    "niveauSonoreDBSPL": 44.21,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:30:56.332Z"
+  },
+  {
+    "temperatureBMP": 22.5,
+    "temperatureDHT": 23.2,
+    "pression": 1025.66,
+    "humidite": 41,
+    "MQ_analogique": 1691,
+    "niveauSonoreDBSPL": 46.68,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:31:56.441Z"
+  },
+  {
+    "temperatureBMP": 22.5,
+    "temperatureDHT": 23.2,
+    "pression": 1025.66,
+    "humidite": 41,
+    "MQ_analogique": 1609,
+    "niveauSonoreDBSPL": 44.41,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:32:56.451Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23.2,
+    "pression": 1025.69,
+    "humidite": 41,
+    "MQ_analogique": 1653,
+    "niveauSonoreDBSPL": 47.24,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:33:56.458Z"
+  },
+  {
+    "temperatureBMP": 22.5,
+    "temperatureDHT": 23.2,
+    "pression": 1025.7,
+    "humidite": 41,
+    "MQ_analogique": 1672,
+    "niveauSonoreDBSPL": 46.71,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:34:56.366Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23.2,
+    "pression": 1025.74,
+    "humidite": 41,
+    "MQ_analogique": 1658,
+    "niveauSonoreDBSPL": 64.96,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:35:57.242Z"
+  },
+  {
+    "temperatureBMP": 22.7,
+    "temperatureDHT": 23.3,
+    "pression": 1025.69,
+    "humidite": 41,
+    "MQ_analogique": 1644,
+    "niveauSonoreDBSPL": 65.51,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:36:56.508Z"
+  },
+  {
+    "temperatureBMP": 22.8,
+    "temperatureDHT": 23.3,
+    "pression": 1025.73,
+    "humidite": 40,
+    "MQ_analogique": 1528,
+    "niveauSonoreDBSPL": 61.04,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:37:56.499Z"
+  },
+  {
+    "temperatureBMP": 22.7,
+    "temperatureDHT": 23.5,
+    "pression": 1025.74,
+    "humidite": 40,
+    "MQ_analogique": 1639,
+    "niveauSonoreDBSPL": 64.63,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:38:56.290Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23.3,
+    "pression": 1025.67,
+    "humidite": 40,
+    "MQ_analogique": 1627,
+    "niveauSonoreDBSPL": 47.95,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:39:57.238Z"
+  },
+  {
+    "temperatureBMP": 22.7,
+    "temperatureDHT": 23.3,
+    "pression": 1025.71,
+    "humidite": 40,
+    "MQ_analogique": 1625,
+    "niveauSonoreDBSPL": 48.3,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:40:56.633Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23.5,
+    "pression": 1025.79,
+    "humidite": 41,
+    "MQ_analogique": 1623,
+    "niveauSonoreDBSPL": 50.61,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:41:57.880Z"
+  },
+  {
+    "temperatureBMP": 22.7,
+    "temperatureDHT": 23.3,
+    "pression": 1025.75,
+    "humidite": 40,
+    "MQ_analogique": 1609,
+    "niveauSonoreDBSPL": 50.71,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:42:56.734Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23.2,
+    "pression": 1025.77,
+    "humidite": 40,
+    "MQ_analogique": 1595,
+    "niveauSonoreDBSPL": 47.42,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:43:56.534Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23,
+    "pression": 1025.73,
+    "humidite": 41,
+    "MQ_analogique": 1542,
+    "niveauSonoreDBSPL": 47.24,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:46:56.669Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23,
+    "pression": 1025.74,
+    "humidite": 42,
+    "MQ_analogique": 1485,
+    "niveauSonoreDBSPL": 49.67,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:47:56.561Z"
+  },
+  {
+    "temperatureBMP": 22.7,
+    "temperatureDHT": 23,
+    "pression": 1025.67,
+    "humidite": 46,
+    "MQ_analogique": 1492,
+    "niveauSonoreDBSPL": 45.24,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:48:56.569Z"
+  },
+  {
+    "temperatureBMP": 22.7,
+    "temperatureDHT": 23.1,
+    "pression": 1025.74,
+    "humidite": 51,
+    "MQ_analogique": 1483,
+    "niveauSonoreDBSPL": 45.06,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:49:56.786Z"
+  },
+  {
+    "temperatureBMP": 22.7,
+    "temperatureDHT": 23.1,
+    "pression": 1025.74,
+    "humidite": 44,
+    "MQ_analogique": 1488,
+    "niveauSonoreDBSPL": 46.94,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:50:56.587Z"
+  },
+  {
+    "temperatureBMP": 22.7,
+    "temperatureDHT": 23.1,
+    "pression": 1025.75,
+    "humidite": 46,
+    "MQ_analogique": 1509,
+    "niveauSonoreDBSPL": 48.56,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:51:56.595Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23,
+    "pression": 1025.72,
+    "humidite": 43,
+    "MQ_analogique": 1652,
+    "niveauSonoreDBSPL": 48.9,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:52:56.602Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23,
+    "pression": 1025.79,
+    "humidite": 46,
+    "MQ_analogique": 1381,
+    "niveauSonoreDBSPL": 48.59,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:53:56.610Z"
+  },
+  {
+    "temperatureBMP": 22.5,
+    "temperatureDHT": 22.9,
+    "pression": 1025.74,
+    "humidite": 44,
+    "MQ_analogique": 1484,
+    "niveauSonoreDBSPL": 44.63,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:54:56.616Z"
+  },
+  {
+    "temperatureBMP": 22.5,
+    "temperatureDHT": 22.9,
+    "pression": 1025.75,
+    "humidite": 43,
+    "MQ_analogique": 1383,
+    "niveauSonoreDBSPL": 50.61,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:55:56.949Z"
+  },
+  {
+    "temperatureBMP": 22.5,
+    "temperatureDHT": 22.9,
+    "pression": 1025.7,
+    "humidite": 48,
+    "MQ_analogique": 1503,
+    "niveauSonoreDBSPL": 48.04,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:56:56.218Z"
+  },
+  {
+    "temperatureBMP": 22.4,
+    "temperatureDHT": 22.9,
+    "pression": 1025.81,
+    "humidite": 43,
+    "MQ_analogique": 1492,
+    "niveauSonoreDBSPL": 56.86,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:57:59.503Z"
+  },
+  {
+    "temperatureBMP": 22.4,
+    "temperatureDHT": 22.8,
+    "pression": 1025.7,
+    "humidite": 45,
+    "MQ_analogique": 1507,
+    "niveauSonoreDBSPL": 44.97,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:58:56.956Z"
+  },
+  {
+    "temperatureBMP": 22.4,
+    "temperatureDHT": 22.9,
+    "pression": 1025.71,
+    "humidite": 43,
+    "MQ_analogique": 1462,
+    "niveauSonoreDBSPL": 48.76,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T14:59:56.654Z"
+  },
+  {
+    "temperatureBMP": 22.4,
+    "temperatureDHT": 22.8,
+    "pression": 1025.69,
+    "humidite": 44,
+    "MQ_analogique": 1501,
+    "niveauSonoreDBSPL": 46.52,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:00:56.319Z"
+  },
+  {
+    "temperatureBMP": 22.4,
+    "temperatureDHT": 22.8,
+    "pression": 1025.73,
+    "humidite": 43,
+    "MQ_analogique": 1461,
+    "niveauSonoreDBSPL": 47.94,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:01:56.255Z"
+  },
+  {
+    "temperatureBMP": 22.4,
+    "temperatureDHT": 22.8,
+    "pression": 1025.68,
+    "humidite": 45,
+    "MQ_analogique": 1463,
+    "niveauSonoreDBSPL": 49.49,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:02:56.675Z"
+  },
+  {
+    "temperatureBMP": 22.4,
+    "temperatureDHT": 22.8,
+    "pression": 1025.66,
+    "humidite": 43,
+    "MQ_analogique": 1461,
+    "niveauSonoreDBSPL": 47.26,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:03:56.681Z"
+  },
+  {
+    "temperatureBMP": 22.3,
+    "temperatureDHT": 22.9,
+    "pression": 1025.74,
+    "humidite": 43,
+    "MQ_analogique": 1404,
+    "niveauSonoreDBSPL": 58.86,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:04:56.894Z"
+  },
+  {
+    "temperatureBMP": 22.3,
+    "temperatureDHT": 22.9,
+    "pression": 1025.76,
+    "humidite": 53,
+    "MQ_analogique": 1399,
+    "niveauSonoreDBSPL": 50.75,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:05:56.692Z"
+  },
+  {
+    "temperatureBMP": 22.3,
+    "temperatureDHT": 22.9,
+    "pression": 1025.77,
+    "humidite": 54,
+    "MQ_analogique": 1355,
+    "niveauSonoreDBSPL": 49.58,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:06:56.498Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.82,
+    "humidite": 54,
+    "MQ_analogique": 1401,
+    "niveauSonoreDBSPL": 48.8,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:07:56.834Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.86,
+    "humidite": 54,
+    "MQ_analogique": 1397,
+    "niveauSonoreDBSPL": 46.65,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:08:56.830Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.82,
+    "humidite": 55,
+    "MQ_analogique": 1429,
+    "niveauSonoreDBSPL": 48.62,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:09:56.523Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.75,
+    "humidite": 55,
+    "MQ_analogique": 1387,
+    "niveauSonoreDBSPL": 48.72,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:10:56.735Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.84,
+    "humidite": 55,
+    "MQ_analogique": 1381,
+    "niveauSonoreDBSPL": 50.49,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:11:56.739Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.76,
+    "humidite": 55,
+    "MQ_analogique": 1386,
+    "niveauSonoreDBSPL": 49.89,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:12:56.549Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.75,
+    "humidite": 55,
+    "MQ_analogique": 1370,
+    "niveauSonoreDBSPL": 48.72,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:13:56.551Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.76,
+    "humidite": 56,
+    "MQ_analogique": 1375,
+    "niveauSonoreDBSPL": 53.18,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:14:56.760Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.72,
+    "humidite": 55,
+    "MQ_analogique": 1380,
+    "niveauSonoreDBSPL": 57.11,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:15:56.365Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.79,
+    "humidite": 55,
+    "MQ_analogique": 1385,
+    "niveauSonoreDBSPL": 48.21,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:16:56.778Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.76,
+    "humidite": 54,
+    "MQ_analogique": 1371,
+    "niveauSonoreDBSPL": 50.08,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:17:56.788Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.9,
+    "pression": 1025.83,
+    "humidite": 54,
+    "MQ_analogique": 1370,
+    "niveauSonoreDBSPL": 44.35,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:18:56.630Z"
+  },
+  {
+    "temperatureBMP": 22.1,
+    "temperatureDHT": 22.9,
+    "pression": 1025.82,
+    "humidite": 53,
+    "MQ_analogique": 1419,
+    "niveauSonoreDBSPL": 46.76,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:19:56.596Z"
+  },
+  {
+    "temperatureBMP": 22.1,
+    "temperatureDHT": 22.8,
+    "pression": 1025.75,
+    "humidite": 54,
+    "MQ_analogique": 1363,
+    "niveauSonoreDBSPL": 50.23,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:20:56.806Z"
+  },
+  {
+    "temperatureBMP": 22.1,
+    "temperatureDHT": 22.8,
+    "pression": 1025.76,
+    "humidite": 55,
+    "MQ_analogique": 1363,
+    "niveauSonoreDBSPL": 50.23,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:21:56.727Z"
+  },
+  {
+    "temperatureBMP": 22.1,
+    "temperatureDHT": 22.9,
+    "pression": 1025.8,
+    "humidite": 56,
+    "MQ_analogique": 1352,
+    "niveauSonoreDBSPL": 49.36,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:22:56.622Z"
+  },
+  {
+    "temperatureBMP": 22.1,
+    "temperatureDHT": 22.8,
+    "pression": 1025.72,
+    "humidite": 57,
+    "MQ_analogique": 1337,
+    "niveauSonoreDBSPL": 46.94,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:23:56.627Z"
+  },
+  {
+    "temperatureBMP": 22.1,
+    "temperatureDHT": 22.8,
+    "pression": 1025.74,
+    "humidite": 57,
+    "MQ_analogique": 1353,
+    "niveauSonoreDBSPL": 46.61,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:24:56.631Z"
+  },
+  {
+    "temperatureBMP": 22.1,
+    "temperatureDHT": 22.8,
+    "pression": 1025.73,
+    "humidite": 57,
+    "MQ_analogique": 1336,
+    "niveauSonoreDBSPL": 46.99,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:25:56.639Z"
+  },
+  {
+    "temperatureBMP": 22.1,
+    "temperatureDHT": 22.8,
+    "pression": 1025.74,
+    "humidite": 57,
+    "MQ_analogique": 1332,
+    "niveauSonoreDBSPL": 47.2,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:26:56.442Z"
+  },
+  {
+    "temperatureBMP": 22.2,
+    "temperatureDHT": 22.8,
+    "pression": 1025.71,
+    "humidite": 59,
+    "MQ_analogique": 1363,
+    "niveauSonoreDBSPL": 49.87,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:27:56.863Z"
+  },
+  {
+    "temperatureBMP": 22.3,
+    "temperatureDHT": 22.9,
+    "pression": 1025.74,
+    "humidite": 47,
+    "MQ_analogique": 1387,
+    "niveauSonoreDBSPL": 48.41,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:28:56.663Z"
+  },
+  {
+    "temperatureBMP": 22.4,
+    "temperatureDHT": 22.9,
+    "pression": 1025.73,
+    "humidite": 48,
+    "MQ_analogique": 1389,
+    "niveauSonoreDBSPL": 48.44,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:29:56.873Z"
+  },
+  {
+    "temperatureBMP": 22.5,
+    "temperatureDHT": 22.9,
+    "pression": 1025.66,
+    "humidite": 47,
+    "MQ_analogique": 1445,
+    "niveauSonoreDBSPL": 49.22,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:30:56.790Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23,
+    "pression": 1025.72,
+    "humidite": 48,
+    "MQ_analogique": 1214,
+    "niveauSonoreDBSPL": 47.57,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:31:58.789Z"
+  },
+  {
+    "temperatureBMP": 22.6,
+    "temperatureDHT": 23.1,
+    "pression": 1025.71,
+    "humidite": 47,
+    "MQ_analogique": 1391,
+    "niveauSonoreDBSPL": 49.88,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:32:56.694Z"
+  },
+  {
+    "temperatureBMP": 22.7,
+    "temperatureDHT": 23.1,
+    "pression": 1025.76,
+    "humidite": 48,
+    "MQ_analogique": 1177,
+    "niveauSonoreDBSPL": 47.55,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:33:56.815Z"
+  },
+  {
+    "temperatureBMP": 22.9,
+    "temperatureDHT": 23.4,
+    "pression": 1025.75,
+    "humidite": 42,
+    "MQ_analogique": 1452,
+    "niveauSonoreDBSPL": 49.42,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:37:56.528Z"
+  },
+  {
+    "temperatureBMP": 22.9,
+    "temperatureDHT": 23.5,
+    "pression": 1025.76,
+    "humidite": 42,
+    "MQ_analogique": 1486,
+    "niveauSonoreDBSPL": 48.48,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:38:56.734Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.77,
+    "humidite": 42,
+    "MQ_analogique": 1476,
+    "niveauSonoreDBSPL": 50.21,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:39:56.745Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.7,
+    "humidite": 42,
+    "MQ_analogique": 1440,
+    "niveauSonoreDBSPL": 47.35,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:40:56.882Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.67,
+    "humidite": 42,
+    "MQ_analogique": 1446,
+    "niveauSonoreDBSPL": 51.65,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:41:56.758Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.67,
+    "humidite": 42,
+    "MQ_analogique": 1436,
+    "niveauSonoreDBSPL": 48.3,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:42:56.561Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.67,
+    "humidite": 42,
+    "MQ_analogique": 1435,
+    "niveauSonoreDBSPL": 47.89,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:43:56.570Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.67,
+    "humidite": 42,
+    "MQ_analogique": 1478,
+    "niveauSonoreDBSPL": 48.42,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:44:56.782Z"
+  },
+  {
+    "temperatureBMP": 22.9,
+    "temperatureDHT": 23.4,
+    "pression": 1025.69,
+    "humidite": 42,
+    "MQ_analogique": 1412,
+    "niveauSonoreDBSPL": 48.75,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:45:56.912Z"
+  },
+  {
+    "temperatureBMP": 22.9,
+    "temperatureDHT": 23.4,
+    "pression": 1025.67,
+    "humidite": 42,
+    "MQ_analogique": 1357,
+    "niveauSonoreDBSPL": 48.37,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:46:56.589Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.4,
+    "pression": 1025.65,
+    "humidite": 42,
+    "MQ_analogique": 1397,
+    "niveauSonoreDBSPL": 52.57,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:47:56.597Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.71,
+    "humidite": 42,
+    "MQ_analogique": 1407,
+    "niveauSonoreDBSPL": 49.52,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:48:56.604Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.69,
+    "humidite": 42,
+    "MQ_analogique": 1295,
+    "niveauSonoreDBSPL": 49.78,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:49:56.409Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.61,
+    "humidite": 42,
+    "MQ_analogique": 1399,
+    "niveauSonoreDBSPL": 47.55,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:50:56.620Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.72,
+    "humidite": 42,
+    "MQ_analogique": 1382,
+    "niveauSonoreDBSPL": 48.54,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:51:56.631Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.64,
+    "humidite": 42,
+    "MQ_analogique": 1391,
+    "niveauSonoreDBSPL": 47.67,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:52:56.655Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.66,
+    "humidite": 42,
+    "MQ_analogique": 1387,
+    "niveauSonoreDBSPL": 48.55,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:53:57.875Z"
+  },
+  {
+    "temperatureBMP": 23,
+    "temperatureDHT": 23.5,
+    "pression": 1025.71,
+    "humidite": 42,
+    "MQ_analogique": 1380,
+    "niveauSonoreDBSPL": 49.42,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:54:56.446Z"
+  },
+  {
+    "temperatureBMP": 23.1,
+    "temperatureDHT": 23.5,
+    "pression": 1025.72,
+    "humidite": 42,
+    "MQ_analogique": 1371,
+    "niveauSonoreDBSPL": 50.21,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:55:56.456Z"
+  },
+  {
+    "temperatureBMP": 23.2,
+    "temperatureDHT": 23.6,
+    "pression": 1025.79,
+    "humidite": 42,
+    "MQ_analogique": 1381,
+    "niveauSonoreDBSPL": 55.39,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:56:56.669Z"
+  },
+  {
+    "temperatureBMP": 23.1,
+    "temperatureDHT": 23.7,
+    "pression": 1025.76,
+    "humidite": 42,
+    "MQ_analogique": 1375,
+    "niveauSonoreDBSPL": 49.89,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:57:56.682Z"
+  },
+  {
+    "temperatureBMP": 23.2,
+    "temperatureDHT": 23.8,
+    "pression": 1025.72,
+    "humidite": 42,
+    "MQ_analogique": 1367,
+    "niveauSonoreDBSPL": 48.54,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:58:56.532Z"
+  },
+  {
+    "temperatureBMP": 23.1,
+    "temperatureDHT": 23.7,
+    "pression": 1025.75,
+    "humidite": 42,
+    "MQ_analogique": 1367,
+    "niveauSonoreDBSPL": 50.62,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T15:59:56.789Z"
+  },
+  {
+    "temperatureBMP": 23.1,
+    "temperatureDHT": 23.7,
+    "pression": 1025.79,
+    "humidite": 42,
+    "MQ_analogique": 1367,
+    "niveauSonoreDBSPL": 55.46,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T16:00:56.901Z"
+  },
+  {
+    "temperatureBMP": 23.2,
+    "temperatureDHT": 23.7,
+    "pression": 1025.79,
+    "humidite": 42,
+    "MQ_analogique": 1405,
+    "niveauSonoreDBSPL": 49.83,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T16:01:56.504Z"
+  },
+  {
+    "temperatureBMP": 23.2,
+    "temperatureDHT": 23.7,
+    "pression": 1025.77,
+    "humidite": 42,
+    "MQ_analogique": 1455,
+    "niveauSonoreDBSPL": 51.88,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T16:02:56.714Z"
+  },
+  {
+    "temperatureBMP": 23.2,
+    "temperatureDHT": 23.7,
+    "pression": 1025.8,
+    "humidite": 42,
+    "MQ_analogique": 1493,
+    "niveauSonoreDBSPL": 51.43,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T16:03:56.722Z"
+  },
+  {
+    "temperatureBMP": 23.2,
+    "temperatureDHT": 23.8,
+    "pression": 1025.79,
+    "humidite": 42,
+    "MQ_analogique": 1435,
+    "niveauSonoreDBSPL": 50.64,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T16:04:56.726Z"
+  },
+  {
+    "temperatureBMP": 23.1,
+    "temperatureDHT": 23.8,
+    "pression": 1025.77,
+    "humidite": 41,
+    "MQ_analogique": 1357,
+    "niveauSonoreDBSPL": 51.73,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T16:05:56.965Z"
+  },
+  {
+    "temperatureBMP": 23.1,
+    "temperatureDHT": 23.6,
+    "pression": 1025.75,
+    "humidite": 41,
+    "MQ_analogique": 1427,
+    "niveauSonoreDBSPL": 48.4,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T16:06:56.743Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.5,
+    "pression": 1024.94,
+    "humidite": 52,
+    "MQ_analogique": 1683,
+    "niveauSonoreDBSPL": 44.88,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:47:31.304Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.4,
+    "pression": 1024.9,
+    "humidite": 52,
+    "MQ_analogique": 1573,
+    "niveauSonoreDBSPL": 45.52,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:48:31.209Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.4,
+    "pression": 1024.88,
+    "humidite": 52,
+    "MQ_analogique": 1706,
+    "niveauSonoreDBSPL": 44.09,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:49:31.113Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.4,
+    "pression": 1024.85,
+    "humidite": 52,
+    "MQ_analogique": 1615,
+    "niveauSonoreDBSPL": 43.03,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:50:31.226Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.4,
+    "pression": 1024.84,
+    "humidite": 51,
+    "MQ_analogique": 1529,
+    "niveauSonoreDBSPL": 46.58,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:51:31.127Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.4,
+    "pression": 1024.87,
+    "humidite": 52,
+    "MQ_analogique": 1579,
+    "niveauSonoreDBSPL": 42.39,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:52:31.481Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.4,
+    "pression": 1024.79,
+    "humidite": 52,
+    "MQ_analogique": 1611,
+    "niveauSonoreDBSPL": 54.9,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:53:31.144Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.4,
+    "pression": 1024.77,
+    "humidite": 52,
+    "MQ_analogique": 1559,
+    "niveauSonoreDBSPL": 54.81,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:54:31.153Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.5,
+    "pression": 1024.71,
+    "humidite": 52,
+    "MQ_analogique": 1643,
+    "niveauSonoreDBSPL": 49.93,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:55:31.156Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.4,
+    "pression": 1024.79,
+    "humidite": 52,
+    "MQ_analogique": 1529,
+    "niveauSonoreDBSPL": 45.22,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:56:31.373Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.5,
+    "pression": 1024.75,
+    "humidite": 52,
+    "MQ_analogique": 1519,
+    "niveauSonoreDBSPL": 43.59,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:57:31.275Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.4,
+    "pression": 1024.74,
+    "humidite": 52,
+    "MQ_analogique": 1516,
+    "niveauSonoreDBSPL": 47.09,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:58:31.182Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.5,
+    "pression": 1024.74,
+    "humidite": 52,
+    "MQ_analogique": 1643,
+    "niveauSonoreDBSPL": 48.34,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T22:59:31.427Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.5,
+    "pression": 1024.78,
+    "humidite": 52,
+    "MQ_analogique": 1501,
+    "niveauSonoreDBSPL": 49.02,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:00:31.195Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.5,
+    "pression": 1024.78,
+    "humidite": 52,
+    "MQ_analogique": 1497,
+    "niveauSonoreDBSPL": 46.37,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:01:31.203Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.5,
+    "pression": 1024.76,
+    "humidite": 51,
+    "MQ_analogique": 1486,
+    "niveauSonoreDBSPL": 43.3,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:02:31.215Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.5,
+    "pression": 1024.7,
+    "humidite": 51,
+    "MQ_analogique": 1481,
+    "niveauSonoreDBSPL": 44.62,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:03:31.217Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.5,
+    "pression": 1024.73,
+    "humidite": 51,
+    "MQ_analogique": 1483,
+    "niveauSonoreDBSPL": 53.34,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:04:31.226Z"
+  },
+  {
+    "temperatureBMP": 19,
+    "temperatureDHT": 19.5,
+    "pression": 1024.71,
+    "humidite": 51,
+    "MQ_analogique": 1400,
+    "niveauSonoreDBSPL": 43.97,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:05:31.233Z"
+  },
+  {
+    "temperatureBMP": 19.1,
+    "temperatureDHT": 19.5,
+    "pression": 1024.69,
+    "humidite": 51,
+    "MQ_analogique": 1451,
+    "niveauSonoreDBSPL": 48.23,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:06:31.243Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.74,
+    "humidite": 51,
+    "MQ_analogique": 1591,
+    "niveauSonoreDBSPL": 60.03,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:07:31.142Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.69,
+    "humidite": 51,
+    "MQ_analogique": 1427,
+    "niveauSonoreDBSPL": 63.38,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:08:31.469Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.69,
+    "humidite": 50,
+    "MQ_analogique": 1461,
+    "niveauSonoreDBSPL": 45.38,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:14:20.035Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 20,
+    "pression": 1024.73,
+    "humidite": 50,
+    "MQ_analogique": 1433,
+    "niveauSonoreDBSPL": 41.8,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:15:20.255Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.73,
+    "humidite": 51,
+    "MQ_analogique": 1388,
+    "niveauSonoreDBSPL": 41.25,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:16:20.047Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.74,
+    "humidite": 51,
+    "MQ_analogique": 1367,
+    "niveauSonoreDBSPL": 39.96,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:17:19.885Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.74,
+    "humidite": 51,
+    "MQ_analogique": 1365,
+    "niveauSonoreDBSPL": 42.85,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:18:20.067Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.74,
+    "humidite": 51,
+    "MQ_analogique": 1381,
+    "niveauSonoreDBSPL": 42.61,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:19:20.074Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.73,
+    "humidite": 51,
+    "MQ_analogique": 1363,
+    "niveauSonoreDBSPL": 41.48,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:20:20.284Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.69,
+    "humidite": 51,
+    "MQ_analogique": 1470,
+    "niveauSonoreDBSPL": 44.89,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:21:20.293Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.67,
+    "humidite": 51,
+    "MQ_analogique": 1479,
+    "niveauSonoreDBSPL": 45.57,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:22:20.095Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.9,
+    "pression": 1024.68,
+    "humidite": 51,
+    "MQ_analogique": 1449,
+    "niveauSonoreDBSPL": 42.63,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:23:20.102Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.9,
+    "pression": 1024.68,
+    "humidite": 51,
+    "MQ_analogique": 1443,
+    "niveauSonoreDBSPL": 43.73,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:24:20.110Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.9,
+    "pression": 1024.72,
+    "humidite": 51,
+    "MQ_analogique": 1437,
+    "niveauSonoreDBSPL": 41.99,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:25:20.138Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.9,
+    "pression": 1024.65,
+    "humidite": 51,
+    "MQ_analogique": 1413,
+    "niveauSonoreDBSPL": 43.16,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:26:20.124Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.9,
+    "pression": 1024.62,
+    "humidite": 51,
+    "MQ_analogique": 1386,
+    "niveauSonoreDBSPL": 46.41,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:27:20.129Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.9,
+    "pression": 1024.67,
+    "humidite": 51,
+    "MQ_analogique": 1423,
+    "niveauSonoreDBSPL": 44.15,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:28:20.138Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 20,
+    "pression": 1024.7,
+    "humidite": 51,
+    "MQ_analogique": 1292,
+    "niveauSonoreDBSPL": 44.79,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:29:53.940Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.9,
+    "pression": 1024.69,
+    "humidite": 50,
+    "MQ_analogique": 1398,
+    "niveauSonoreDBSPL": 43.51,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:30:53.739Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.9,
+    "pression": 1024.69,
+    "humidite": 51,
+    "MQ_analogique": 1392,
+    "niveauSonoreDBSPL": 42.05,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:31:53.546Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.9,
+    "pression": 1024.63,
+    "humidite": 51,
+    "MQ_analogique": 1419,
+    "niveauSonoreDBSPL": 44.17,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:32:53.842Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.9,
+    "pression": 1024.64,
+    "humidite": 51,
+    "MQ_analogique": 1381,
+    "niveauSonoreDBSPL": 44.05,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:33:53.781Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.9,
+    "pression": 1024.69,
+    "humidite": 51,
+    "MQ_analogique": 1387,
+    "niveauSonoreDBSPL": 44.08,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:34:53.564Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 20,
+    "pression": 1024.72,
+    "humidite": 50,
+    "MQ_analogique": 1291,
+    "niveauSonoreDBSPL": 45.01,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:36:27.364Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.73,
+    "humidite": 50,
+    "MQ_analogique": 1273,
+    "niveauSonoreDBSPL": 47.13,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:55:36.520Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.73,
+    "humidite": 50,
+    "MQ_analogique": 1093,
+    "niveauSonoreDBSPL": 45.1,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:56:35.911Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 19.9,
+    "pression": 1024.65,
+    "humidite": 50,
+    "MQ_analogique": 989,
+    "niveauSonoreDBSPL": 45.17,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:57:36.904Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20,
+    "pression": 1024.68,
+    "humidite": 50,
+    "MQ_analogique": 1316,
+    "niveauSonoreDBSPL": 46.06,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:58:36.025Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20.1,
+    "pression": 1024.67,
+    "humidite": 50,
+    "MQ_analogique": 1303,
+    "niveauSonoreDBSPL": 43.51,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-26T23:59:36.048Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20.1,
+    "pression": 1024.62,
+    "humidite": 50,
+    "MQ_analogique": 1302,
+    "niveauSonoreDBSPL": 46.77,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:00:35.936Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.61,
+    "humidite": 50,
+    "MQ_analogique": 1315,
+    "niveauSonoreDBSPL": 45.95,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:01:35.945Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.2,
+    "pression": 1024.63,
+    "humidite": 50,
+    "MQ_analogique": 1305,
+    "niveauSonoreDBSPL": 46.29,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:02:36.161Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.2,
+    "pression": 1024.63,
+    "humidite": 50,
+    "MQ_analogique": 1304,
+    "niveauSonoreDBSPL": 48.14,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:03:35.960Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.3,
+    "pression": 1024.56,
+    "humidite": 50,
+    "MQ_analogique": 1292,
+    "niveauSonoreDBSPL": 45.51,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:04:36.279Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.3,
+    "pression": 1024.58,
+    "humidite": 50,
+    "MQ_analogique": 1399,
+    "niveauSonoreDBSPL": 46.28,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:05:35.976Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.4,
+    "pression": 1024.58,
+    "humidite": 50,
+    "MQ_analogique": 1295,
+    "niveauSonoreDBSPL": 44,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:06:36.211Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.5,
+    "pression": 1024.59,
+    "humidite": 50,
+    "MQ_analogique": 1295,
+    "niveauSonoreDBSPL": 49.3,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:07:35.990Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "temperatureDHT": 20.5,
+    "pression": 1024.56,
+    "humidite": 50,
+    "MQ_analogique": 1268,
+    "niveauSonoreDBSPL": 53.13,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:08:36.403Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "temperatureDHT": 20.6,
+    "pression": 1024.61,
+    "humidite": 50,
+    "MQ_analogique": 1275,
+    "niveauSonoreDBSPL": 51.95,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:09:36.218Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "temperatureDHT": 20.6,
+    "pression": 1024.6,
+    "humidite": 49,
+    "MQ_analogique": 1327,
+    "niveauSonoreDBSPL": 46.32,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:10:36.011Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.7,
+    "pression": 1024.7,
+    "humidite": 49,
+    "MQ_analogique": 1634,
+    "niveauSonoreDBSPL": 50.09,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:11:36.233Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.8,
+    "pression": 1024.61,
+    "humidite": 49,
+    "MQ_analogique": 1269,
+    "niveauSonoreDBSPL": 47.2,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:12:36.029Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.7,
+    "pression": 1024.55,
+    "humidite": 49,
+    "MQ_analogique": 1277,
+    "niveauSonoreDBSPL": 50.61,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:13:36.038Z"
+  },
+  {
+    "temperatureBMP": 20.2,
+    "temperatureDHT": 20.8,
+    "pression": 1024.61,
+    "humidite": 49,
+    "MQ_analogique": 1269,
+    "niveauSonoreDBSPL": 50.93,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:14:36.054Z"
+  },
+  {
+    "temperatureBMP": 20.2,
+    "temperatureDHT": 21.1,
+    "pression": 1024.59,
+    "humidite": 50,
+    "MQ_analogique": 1256,
+    "niveauSonoreDBSPL": 56.97,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:15:36.148Z"
+  },
+  {
+    "temperatureBMP": 20.3,
+    "temperatureDHT": 20.9,
+    "pression": 1024.6,
+    "humidite": 49,
+    "MQ_analogique": 1255,
+    "niveauSonoreDBSPL": 49.93,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:16:36.065Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "temperatureDHT": 20.9,
+    "pression": 1024.59,
+    "humidite": 48,
+    "MQ_analogique": 1256,
+    "niveauSonoreDBSPL": 42.08,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:17:36.167Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "temperatureDHT": 21.1,
+    "pression": 1024.5,
+    "humidite": 49,
+    "MQ_analogique": 1240,
+    "niveauSonoreDBSPL": 47.09,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:18:36.085Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "temperatureDHT": 21.2,
+    "pression": 1024.61,
+    "humidite": 49,
+    "MQ_analogique": 1255,
+    "niveauSonoreDBSPL": 46.39,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:19:36.077Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "temperatureDHT": 21.4,
+    "pression": 1024.55,
+    "humidite": 48,
+    "MQ_analogique": 1253,
+    "niveauSonoreDBSPL": 49.14,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:20:36.089Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "temperatureDHT": 21.4,
+    "pression": 1024.5,
+    "humidite": 48,
+    "MQ_analogique": 1251,
+    "niveauSonoreDBSPL": 48.99,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:21:36.114Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "temperatureDHT": 21.5,
+    "pression": 1024.59,
+    "humidite": 48,
+    "MQ_analogique": 1259,
+    "niveauSonoreDBSPL": 44.67,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:22:36.307Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "temperatureDHT": 21.6,
+    "pression": 1024.54,
+    "humidite": 47,
+    "MQ_analogique": 1287,
+    "niveauSonoreDBSPL": 43.57,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:23:36.319Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "temperatureDHT": 21.7,
+    "pression": 1024.56,
+    "humidite": 47,
+    "MQ_analogique": 1255,
+    "niveauSonoreDBSPL": 41.52,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:24:35.929Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "temperatureDHT": 21.8,
+    "pression": 1024.53,
+    "humidite": 47,
+    "MQ_analogique": 1278,
+    "niveauSonoreDBSPL": 41.62,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:25:36.332Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "temperatureDHT": 21.9,
+    "pression": 1024.62,
+    "humidite": 46,
+    "MQ_analogique": 1188,
+    "niveauSonoreDBSPL": 44.51,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:26:36.340Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "temperatureDHT": 21.9,
+    "pression": 1024.59,
+    "humidite": 46,
+    "MQ_analogique": 1256,
+    "niveauSonoreDBSPL": 42.93,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:27:36.140Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "temperatureDHT": 22,
+    "pression": 1024.65,
+    "humidite": 47,
+    "MQ_analogique": 1274,
+    "niveauSonoreDBSPL": 44.24,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:28:37.375Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22.1,
+    "pression": 1024.58,
+    "humidite": 47,
+    "MQ_analogique": 1272,
+    "niveauSonoreDBSPL": 44.37,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:29:36.156Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22.1,
+    "pression": 1024.58,
+    "humidite": 47,
+    "MQ_analogique": 1189,
+    "niveauSonoreDBSPL": 43.08,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:30:35.958Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.2,
+    "pression": 1024.56,
+    "humidite": 47,
+    "MQ_analogique": 1274,
+    "niveauSonoreDBSPL": 45.45,
+    "gps": "50.84569334668039, 4.39356337571457",
+    "timestamp": "2024-12-27T00:31:36.267Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.3,
+    "pression": 1024.62,
+    "humidite": 46,
+    "MQ_analogique": 1289,
+    "niveauSonoreDBSPL": 44.97,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:33:13.659Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.3,
+    "pression": 1024.64,
+    "humidite": 46,
+    "MQ_analogique": 1260,
+    "niveauSonoreDBSPL": 45.27,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:34:13.661Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.3,
+    "pression": 1024.62,
+    "humidite": 46,
+    "MQ_analogique": 1255,
+    "niveauSonoreDBSPL": 49.67,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:35:13.670Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.4,
+    "pression": 1024.59,
+    "humidite": 46,
+    "MQ_analogique": 1263,
+    "niveauSonoreDBSPL": 44.6,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:36:13.679Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.4,
+    "pression": 1024.56,
+    "humidite": 46,
+    "MQ_analogique": 1269,
+    "niveauSonoreDBSPL": 42.2,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:37:13.476Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.4,
+    "pression": 1024.56,
+    "humidite": 46,
+    "MQ_analogique": 1246,
+    "niveauSonoreDBSPL": 45.45,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:38:13.486Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.4,
+    "pression": 1024.57,
+    "humidite": 46,
+    "MQ_analogique": 1268,
+    "niveauSonoreDBSPL": 43.66,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:39:13.697Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.4,
+    "pression": 1024.53,
+    "humidite": 45,
+    "MQ_analogique": 1311,
+    "niveauSonoreDBSPL": 45.09,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:40:13.395Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.4,
+    "pression": 1024.55,
+    "humidite": 45,
+    "MQ_analogique": 1267,
+    "niveauSonoreDBSPL": 45.01,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:41:13.610Z"
+  },
+  {
+    "temperatureBMP": 21.7,
+    "temperatureDHT": 22.4,
+    "pression": 1024.52,
+    "humidite": 45,
+    "MQ_analogique": 1175,
+    "niveauSonoreDBSPL": 50.29,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:42:16.079Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.57,
+    "humidite": 46,
+    "MQ_analogique": 1250,
+    "niveauSonoreDBSPL": 46.29,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:43:13.626Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.4,
+    "pression": 1024.51,
+    "humidite": 45,
+    "MQ_analogique": 1237,
+    "niveauSonoreDBSPL": 45.65,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:44:13.426Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.53,
+    "humidite": 45,
+    "MQ_analogique": 1245,
+    "niveauSonoreDBSPL": 44.6,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:45:13.638Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.55,
+    "humidite": 45,
+    "MQ_analogique": 1261,
+    "niveauSonoreDBSPL": 42.82,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:46:13.683Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.4,
+    "pression": 1024.61,
+    "humidite": 45,
+    "MQ_analogique": 1264,
+    "niveauSonoreDBSPL": 45.21,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:47:13.485Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.4,
+    "pression": 1024.58,
+    "humidite": 45,
+    "MQ_analogique": 1253,
+    "niveauSonoreDBSPL": 44.17,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:48:13.459Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.58,
+    "humidite": 45,
+    "MQ_analogique": 1273,
+    "niveauSonoreDBSPL": 46.24,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:49:13.669Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.61,
+    "humidite": 45,
+    "MQ_analogique": 1256,
+    "niveauSonoreDBSPL": 48.92,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:50:13.680Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.4,
+    "pression": 1024.54,
+    "humidite": 45,
+    "MQ_analogique": 1096,
+    "niveauSonoreDBSPL": 42.76,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:51:13.482Z"
+  },
+  {
+    "temperatureBMP": 21.9,
+    "temperatureDHT": 22.5,
+    "pression": 1024.61,
+    "humidite": 45,
+    "MQ_analogique": 1215,
+    "niveauSonoreDBSPL": 43.02,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:52:13.487Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.58,
+    "humidite": 45,
+    "MQ_analogique": 1235,
+    "niveauSonoreDBSPL": 44.7,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:53:13.497Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.51,
+    "humidite": 45,
+    "MQ_analogique": 1240,
+    "niveauSonoreDBSPL": 43.15,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:54:13.304Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.58,
+    "humidite": 45,
+    "MQ_analogique": 1239,
+    "niveauSonoreDBSPL": 46.77,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:55:13.647Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.54,
+    "humidite": 45,
+    "MQ_analogique": 1251,
+    "niveauSonoreDBSPL": 43.67,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:56:13.720Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.56,
+    "humidite": 45,
+    "MQ_analogique": 1268,
+    "niveauSonoreDBSPL": 44.66,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:57:13.526Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.55,
+    "humidite": 45,
+    "MQ_analogique": 1236,
+    "niveauSonoreDBSPL": 45.09,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:58:13.534Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.57,
+    "humidite": 45,
+    "MQ_analogique": 1238,
+    "niveauSonoreDBSPL": 45.29,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T00:59:13.542Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.54,
+    "humidite": 45,
+    "MQ_analogique": 1200,
+    "niveauSonoreDBSPL": 44.35,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:00:13.647Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.57,
+    "humidite": 45,
+    "MQ_analogique": 1263,
+    "niveauSonoreDBSPL": 45.07,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:01:13.354Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.63,
+    "humidite": 45,
+    "MQ_analogique": 1244,
+    "niveauSonoreDBSPL": 42.66,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:02:13.768Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.5,
+    "humidite": 45,
+    "MQ_analogique": 1239,
+    "niveauSonoreDBSPL": 43,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:03:13.366Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.51,
+    "humidite": 45,
+    "MQ_analogique": 1229,
+    "niveauSonoreDBSPL": 44.58,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:04:13.783Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.4,
+    "pression": 1024.47,
+    "humidite": 45,
+    "MQ_analogique": 1204,
+    "niveauSonoreDBSPL": 42.15,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:05:13.381Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.48,
+    "humidite": 45,
+    "MQ_analogique": 1351,
+    "niveauSonoreDBSPL": 44.25,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:06:13.391Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.52,
+    "humidite": 45,
+    "MQ_analogique": 1289,
+    "niveauSonoreDBSPL": 44.82,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:07:13.600Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.4,
+    "pression": 1024.51,
+    "humidite": 45,
+    "MQ_analogique": 1224,
+    "niveauSonoreDBSPL": 45.74,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:08:13.686Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.4,
+    "pression": 1024.55,
+    "humidite": 45,
+    "MQ_analogique": 1224,
+    "niveauSonoreDBSPL": 45.87,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:09:13.430Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.53,
+    "humidite": 45,
+    "MQ_analogique": 1224,
+    "niveauSonoreDBSPL": 44.01,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:10:13.420Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.5,
+    "humidite": 45,
+    "MQ_analogique": 1224,
+    "niveauSonoreDBSPL": 42.61,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:11:13.732Z"
+  },
+  {
+    "temperatureBMP": 21.8,
+    "temperatureDHT": 22.5,
+    "pression": 1024.53,
+    "humidite": 45,
+    "MQ_analogique": 1204,
+    "niveauSonoreDBSPL": 46.2,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:12:13.436Z"
+  },
+  {
+    "temperatureBMP": 21.7,
+    "temperatureDHT": 22.4,
+    "pression": 1024.53,
+    "humidite": 45,
+    "MQ_analogique": 1221,
+    "niveauSonoreDBSPL": 44.38,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:13:13.444Z"
+  },
+  {
+    "temperatureBMP": 21.7,
+    "temperatureDHT": 22.4,
+    "pression": 1024.61,
+    "humidite": 45,
+    "MQ_analogique": 1261,
+    "niveauSonoreDBSPL": 45.63,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:14:13.655Z"
+  },
+  {
+    "temperatureBMP": 21.7,
+    "temperatureDHT": 22.4,
+    "pression": 1024.55,
+    "humidite": 45,
+    "MQ_analogique": 1227,
+    "niveauSonoreDBSPL": 44.96,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:15:13.456Z"
+  },
+  {
+    "temperatureBMP": 21.7,
+    "temperatureDHT": 22.4,
+    "pression": 1024.6,
+    "humidite": 45,
+    "MQ_analogique": 1223,
+    "niveauSonoreDBSPL": 45.52,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:16:13.540Z"
+  },
+  {
+    "temperatureBMP": 21.7,
+    "temperatureDHT": 22.3,
+    "pression": 1024.58,
+    "humidite": 45,
+    "MQ_analogique": 923,
+    "niveauSonoreDBSPL": 43.18,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:17:13.678Z"
+  },
+  {
+    "temperatureBMP": 21.7,
+    "temperatureDHT": 22.3,
+    "pression": 1024.57,
+    "humidite": 45,
+    "MQ_analogique": 1205,
+    "niveauSonoreDBSPL": 43.79,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:18:13.386Z"
+  },
+  {
+    "temperatureBMP": 21.7,
+    "temperatureDHT": 22.4,
+    "pression": 1024.58,
+    "humidite": 45,
+    "MQ_analogique": 1237,
+    "niveauSonoreDBSPL": 44.65,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:19:13.709Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.3,
+    "pression": 1024.67,
+    "humidite": 45,
+    "MQ_analogique": 1293,
+    "niveauSonoreDBSPL": 44.1,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:20:13.702Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.3,
+    "pression": 1024.61,
+    "humidite": 45,
+    "MQ_analogique": 1204,
+    "niveauSonoreDBSPL": 44.18,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:21:13.500Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.3,
+    "pression": 1024.66,
+    "humidite": 45,
+    "MQ_analogique": 1207,
+    "niveauSonoreDBSPL": 49.33,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:22:13.714Z"
+  },
+  {
+    "temperatureBMP": 21.6,
+    "temperatureDHT": 22.2,
+    "pression": 1024.73,
+    "humidite": 45,
+    "MQ_analogique": 1170,
+    "niveauSonoreDBSPL": 44.3,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:23:13.519Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22.2,
+    "pression": 1024.69,
+    "humidite": 45,
+    "MQ_analogique": 1190,
+    "niveauSonoreDBSPL": 41.66,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:24:13.729Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22.2,
+    "pression": 1024.68,
+    "humidite": 45,
+    "MQ_analogique": 1200,
+    "niveauSonoreDBSPL": 44.76,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:25:14.149Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22.2,
+    "pression": 1024.67,
+    "humidite": 45,
+    "MQ_analogique": 1196,
+    "niveauSonoreDBSPL": 45.78,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:26:13.541Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22.2,
+    "pression": 1024.72,
+    "humidite": 45,
+    "MQ_analogique": 1197,
+    "niveauSonoreDBSPL": 42.81,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:27:13.749Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22.2,
+    "pression": 1024.61,
+    "humidite": 45,
+    "MQ_analogique": 1195,
+    "niveauSonoreDBSPL": 45.49,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:28:13.760Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22,
+    "pression": 1024.69,
+    "humidite": 45,
+    "MQ_analogique": 1193,
+    "niveauSonoreDBSPL": 42.83,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:29:13.868Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22.2,
+    "pression": 1024.66,
+    "humidite": 45,
+    "MQ_analogique": 1197,
+    "niveauSonoreDBSPL": 43.7,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:30:13.772Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22.1,
+    "pression": 1024.64,
+    "humidite": 45,
+    "MQ_analogique": 1245,
+    "niveauSonoreDBSPL": 42.33,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:31:13.783Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22.1,
+    "pression": 1024.64,
+    "humidite": 45,
+    "MQ_analogique": 1197,
+    "niveauSonoreDBSPL": 47.09,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:32:13.584Z"
+  },
+  {
+    "temperatureBMP": 21.5,
+    "temperatureDHT": 22.1,
+    "pression": 1024.69,
+    "humidite": 45,
+    "MQ_analogique": 1263,
+    "niveauSonoreDBSPL": 45.24,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:33:13.606Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "temperatureDHT": 22,
+    "pression": 1024.74,
+    "humidite": 46,
+    "MQ_analogique": 1253,
+    "niveauSonoreDBSPL": 42.61,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:34:13.599Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "temperatureDHT": 22,
+    "pression": 1024.72,
+    "humidite": 46,
+    "MQ_analogique": 1184,
+    "niveauSonoreDBSPL": 46.04,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:35:13.813Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "temperatureDHT": 22,
+    "pression": 1024.7,
+    "humidite": 46,
+    "MQ_analogique": 1189,
+    "niveauSonoreDBSPL": 44.84,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:36:13.632Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "temperatureDHT": 22,
+    "pression": 1024.7,
+    "humidite": 46,
+    "MQ_analogique": 1182,
+    "niveauSonoreDBSPL": 45.23,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:37:13.621Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "temperatureDHT": 22,
+    "pression": 1024.71,
+    "humidite": 46,
+    "MQ_analogique": 1176,
+    "niveauSonoreDBSPL": 45.52,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:38:13.630Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "temperatureDHT": 21.9,
+    "pression": 1024.69,
+    "humidite": 45,
+    "MQ_analogique": 1485,
+    "niveauSonoreDBSPL": 44.64,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:39:13.431Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "temperatureDHT": 21.9,
+    "pression": 1024.79,
+    "humidite": 45,
+    "MQ_analogique": 1177,
+    "niveauSonoreDBSPL": 44.44,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:40:13.509Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "temperatureDHT": 21.9,
+    "pression": 1024.76,
+    "humidite": 45,
+    "MQ_analogique": 1176,
+    "niveauSonoreDBSPL": 44.16,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:41:13.650Z"
+  },
+  {
+    "temperatureBMP": 21.4,
+    "temperatureDHT": 21.9,
+    "pression": 1024.78,
+    "humidite": 45,
+    "MQ_analogique": 1367,
+    "niveauSonoreDBSPL": 41.68,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:42:13.656Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "temperatureDHT": 21.9,
+    "pression": 1024.72,
+    "humidite": 45,
+    "MQ_analogique": 1189,
+    "niveauSonoreDBSPL": 46.69,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:43:13.667Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "temperatureDHT": 21.9,
+    "pression": 1024.72,
+    "humidite": 45,
+    "MQ_analogique": 1179,
+    "niveauSonoreDBSPL": 42.29,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:44:13.519Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "temperatureDHT": 21.8,
+    "pression": 1024.73,
+    "humidite": 45,
+    "MQ_analogique": 1183,
+    "niveauSonoreDBSPL": 42.8,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:45:13.679Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "temperatureDHT": 21.8,
+    "pression": 1024.69,
+    "humidite": 45,
+    "MQ_analogique": 1177,
+    "niveauSonoreDBSPL": 45.27,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:46:13.480Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "temperatureDHT": 21.8,
+    "pression": 1024.67,
+    "humidite": 45,
+    "MQ_analogique": 1179,
+    "niveauSonoreDBSPL": 43.39,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:47:13.594Z"
+  },
+  {
+    "temperatureBMP": 21.3,
+    "temperatureDHT": 21.7,
+    "pression": 1024.76,
+    "humidite": 45,
+    "MQ_analogique": 1198,
+    "niveauSonoreDBSPL": 43.06,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:48:13.709Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "temperatureDHT": 21.7,
+    "pression": 1024.74,
+    "humidite": 45,
+    "MQ_analogique": 1177,
+    "niveauSonoreDBSPL": 43.75,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:49:13.714Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "temperatureDHT": 21.7,
+    "pression": 1024.75,
+    "humidite": 45,
+    "MQ_analogique": 1251,
+    "niveauSonoreDBSPL": 43.44,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:50:13.722Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "temperatureDHT": 21.6,
+    "pression": 1024.73,
+    "humidite": 46,
+    "MQ_analogique": 1176,
+    "niveauSonoreDBSPL": 42.95,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:51:13.726Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "temperatureDHT": 21.6,
+    "pression": 1024.69,
+    "humidite": 46,
+    "MQ_analogique": 1179,
+    "niveauSonoreDBSPL": 43.78,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:52:13.528Z"
+  },
+  {
+    "temperatureBMP": 21.2,
+    "temperatureDHT": 21.6,
+    "pression": 1024.67,
+    "humidite": 46,
+    "MQ_analogique": 1172,
+    "niveauSonoreDBSPL": 42.75,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:53:13.744Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "temperatureDHT": 21.6,
+    "pression": 1024.69,
+    "humidite": 46,
+    "MQ_analogique": 1163,
+    "niveauSonoreDBSPL": 44.45,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:54:13.543Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "temperatureDHT": 21.6,
+    "pression": 1024.71,
+    "humidite": 46,
+    "MQ_analogique": 1161,
+    "niveauSonoreDBSPL": 43.5,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:55:13.755Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "temperatureDHT": 21.5,
+    "pression": 1024.63,
+    "humidite": 46,
+    "MQ_analogique": 1165,
+    "niveauSonoreDBSPL": 44.46,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:56:13.863Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "temperatureDHT": 21.5,
+    "pression": 1024.72,
+    "humidite": 46,
+    "MQ_analogique": 1174,
+    "niveauSonoreDBSPL": 45.76,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:57:13.567Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "temperatureDHT": 21.5,
+    "pression": 1024.71,
+    "humidite": 46,
+    "MQ_analogique": 1173,
+    "niveauSonoreDBSPL": 42.29,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:58:13.780Z"
+  },
+  {
+    "temperatureBMP": 21.1,
+    "temperatureDHT": 21.5,
+    "pression": 1024.74,
+    "humidite": 46,
+    "MQ_analogique": 1174,
+    "niveauSonoreDBSPL": 45.49,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T01:59:13.788Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "temperatureDHT": 21.5,
+    "pression": 1024.72,
+    "humidite": 46,
+    "MQ_analogique": 1170,
+    "niveauSonoreDBSPL": 44.26,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:00:13.888Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "temperatureDHT": 21.4,
+    "pression": 1024.68,
+    "humidite": 46,
+    "MQ_analogique": 1181,
+    "niveauSonoreDBSPL": 40.65,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:01:13.900Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "temperatureDHT": 21.4,
+    "pression": 1024.72,
+    "humidite": 46,
+    "MQ_analogique": 1165,
+    "niveauSonoreDBSPL": 44.28,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:02:13.811Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "temperatureDHT": 21.4,
+    "pression": 1024.7,
+    "humidite": 46,
+    "MQ_analogique": 1191,
+    "niveauSonoreDBSPL": 42.43,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:03:13.816Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "temperatureDHT": 21.4,
+    "pression": 1024.69,
+    "humidite": 46,
+    "MQ_analogique": 1187,
+    "niveauSonoreDBSPL": 44.61,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:04:13.825Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "temperatureDHT": 21.4,
+    "pression": 1024.71,
+    "humidite": 46,
+    "MQ_analogique": 1161,
+    "niveauSonoreDBSPL": 45.33,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:05:13.932Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "temperatureDHT": 21.4,
+    "pression": 1024.67,
+    "humidite": 46,
+    "MQ_analogique": 1175,
+    "niveauSonoreDBSPL": 44.02,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:06:13.638Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "temperatureDHT": 21.4,
+    "pression": 1024.66,
+    "humidite": 47,
+    "MQ_analogique": 1156,
+    "niveauSonoreDBSPL": 43.69,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:07:13.640Z"
+  },
+  {
+    "temperatureBMP": 21,
+    "temperatureDHT": 21.4,
+    "pression": 1024.62,
+    "humidite": 46,
+    "MQ_analogique": 889,
+    "niveauSonoreDBSPL": 44.13,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:08:13.853Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "temperatureDHT": 21.4,
+    "pression": 1024.65,
+    "humidite": 47,
+    "MQ_analogique": 1158,
+    "niveauSonoreDBSPL": 46.53,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:09:13.966Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "temperatureDHT": 21.4,
+    "pression": 1024.71,
+    "humidite": 47,
+    "MQ_analogique": 1207,
+    "niveauSonoreDBSPL": 43.88,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:10:13.869Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "temperatureDHT": 21.4,
+    "pression": 1024.64,
+    "humidite": 47,
+    "MQ_analogique": 1161,
+    "niveauSonoreDBSPL": 43.96,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:11:13.876Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "temperatureDHT": 21.3,
+    "pression": 1024.68,
+    "humidite": 47,
+    "MQ_analogique": 1158,
+    "niveauSonoreDBSPL": 45.87,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:12:13.781Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "temperatureDHT": 21.4,
+    "pression": 1024.63,
+    "humidite": 47,
+    "MQ_analogique": 1133,
+    "niveauSonoreDBSPL": 47.57,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:13:13.684Z"
+  },
+  {
+    "temperatureBMP": 20.9,
+    "temperatureDHT": 21.3,
+    "pression": 1024.66,
+    "humidite": 47,
+    "MQ_analogique": 1151,
+    "niveauSonoreDBSPL": 44.86,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:14:13.706Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "temperatureDHT": 21.3,
+    "pression": 1024.63,
+    "humidite": 47,
+    "MQ_analogique": 1164,
+    "niveauSonoreDBSPL": 43.68,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:15:13.905Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "temperatureDHT": 21.3,
+    "pression": 1024.59,
+    "humidite": 47,
+    "MQ_analogique": 1176,
+    "niveauSonoreDBSPL": 40.58,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:16:13.713Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "temperatureDHT": 21.3,
+    "pression": 1024.57,
+    "humidite": 47,
+    "MQ_analogique": 1145,
+    "niveauSonoreDBSPL": 44.2,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:17:13.736Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "temperatureDHT": 21.2,
+    "pression": 1024.58,
+    "humidite": 47,
+    "MQ_analogique": 1150,
+    "niveauSonoreDBSPL": 39.63,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:18:13.725Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "temperatureDHT": 21.2,
+    "pression": 1024.55,
+    "humidite": 47,
+    "MQ_analogique": 1124,
+    "niveauSonoreDBSPL": 44.28,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:19:13.832Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "temperatureDHT": 21.2,
+    "pression": 1024.54,
+    "humidite": 47,
+    "MQ_analogique": 1146,
+    "niveauSonoreDBSPL": 45.04,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:20:13.535Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "temperatureDHT": 21.2,
+    "pression": 1024.57,
+    "humidite": 47,
+    "MQ_analogique": 1139,
+    "niveauSonoreDBSPL": 49.89,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:21:13.542Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "temperatureDHT": 21.2,
+    "pression": 1024.56,
+    "humidite": 47,
+    "MQ_analogique": 1171,
+    "niveauSonoreDBSPL": 41.66,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:22:13.754Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "temperatureDHT": 21.2,
+    "pression": 1024.51,
+    "humidite": 47,
+    "MQ_analogique": 987,
+    "niveauSonoreDBSPL": 50.14,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:23:13.762Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "temperatureDHT": 21.2,
+    "pression": 1024.56,
+    "humidite": 47,
+    "MQ_analogique": 1144,
+    "niveauSonoreDBSPL": 45.25,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:24:13.770Z"
+  },
+  {
+    "temperatureBMP": 20.8,
+    "temperatureDHT": 21.2,
+    "pression": 1024.52,
+    "humidite": 47,
+    "MQ_analogique": 1149,
+    "niveauSonoreDBSPL": 46.51,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:25:13.778Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "temperatureDHT": 21.2,
+    "pression": 1024.53,
+    "humidite": 47,
+    "MQ_analogique": 1143,
+    "niveauSonoreDBSPL": 46.14,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:26:13.686Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "temperatureDHT": 21.2,
+    "pression": 1024.52,
+    "humidite": 47,
+    "MQ_analogique": 1143,
+    "niveauSonoreDBSPL": 47.41,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:27:13.797Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "temperatureDHT": 21.2,
+    "pression": 1024.53,
+    "humidite": 47,
+    "MQ_analogique": 1261,
+    "niveauSonoreDBSPL": 44.19,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:28:13.712Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "temperatureDHT": 21.2,
+    "pression": 1024.52,
+    "humidite": 47,
+    "MQ_analogique": 1139,
+    "niveauSonoreDBSPL": 42.68,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:29:13.603Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "temperatureDHT": 21.2,
+    "pression": 1024.51,
+    "humidite": 47,
+    "MQ_analogique": 1181,
+    "niveauSonoreDBSPL": 42.66,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:30:13.609Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "temperatureDHT": 21.1,
+    "pression": 1024.41,
+    "humidite": 48,
+    "MQ_analogique": 1099,
+    "niveauSonoreDBSPL": 46.56,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:31:13.823Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "temperatureDHT": 21.1,
+    "pression": 1024.46,
+    "humidite": 48,
+    "MQ_analogique": 1061,
+    "niveauSonoreDBSPL": 45.6,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:32:13.658Z"
+  },
+  {
+    "temperatureBMP": 20.7,
+    "temperatureDHT": 21.1,
+    "pression": 1024.47,
+    "humidite": 48,
+    "MQ_analogique": 1136,
+    "niveauSonoreDBSPL": 43.05,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:33:13.856Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "temperatureDHT": 21.1,
+    "pression": 1024.44,
+    "humidite": 48,
+    "MQ_analogique": 1162,
+    "niveauSonoreDBSPL": 44.76,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:34:13.743Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "temperatureDHT": 21.1,
+    "pression": 1024.47,
+    "humidite": 48,
+    "MQ_analogique": 1133,
+    "niveauSonoreDBSPL": 45.07,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:35:13.956Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "temperatureDHT": 21,
+    "pression": 1024.51,
+    "humidite": 48,
+    "MQ_analogique": 1133,
+    "niveauSonoreDBSPL": 47.09,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:36:13.653Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "temperatureDHT": 21,
+    "pression": 1024.5,
+    "humidite": 48,
+    "MQ_analogique": 1130,
+    "niveauSonoreDBSPL": 43.5,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:37:13.890Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "temperatureDHT": 21,
+    "pression": 1024.5,
+    "humidite": 48,
+    "MQ_analogique": 1140,
+    "niveauSonoreDBSPL": 43.83,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:38:13.776Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "temperatureDHT": 21,
+    "pression": 1024.46,
+    "humidite": 48,
+    "MQ_analogique": 1259,
+    "niveauSonoreDBSPL": 47.17,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:39:13.884Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "temperatureDHT": 21,
+    "pression": 1024.48,
+    "humidite": 48,
+    "MQ_analogique": 1136,
+    "niveauSonoreDBSPL": 46.72,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:40:13.885Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "temperatureDHT": 21,
+    "pression": 1024.44,
+    "humidite": 48,
+    "MQ_analogique": 1321,
+    "niveauSonoreDBSPL": 45.62,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:41:14.000Z"
+  },
+  {
+    "temperatureBMP": 20.6,
+    "temperatureDHT": 21,
+    "pression": 1024.42,
+    "humidite": 48,
+    "MQ_analogique": 1130,
+    "niveauSonoreDBSPL": 44.91,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:42:13.705Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "temperatureDHT": 21,
+    "pression": 1024.39,
+    "humidite": 48,
+    "MQ_analogique": 1134,
+    "niveauSonoreDBSPL": 42.23,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:43:13.917Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "temperatureDHT": 21,
+    "pression": 1024.39,
+    "humidite": 48,
+    "MQ_analogique": 1128,
+    "niveauSonoreDBSPL": 44.31,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:44:13.757Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "temperatureDHT": 21,
+    "pression": 1024.4,
+    "humidite": 48,
+    "MQ_analogique": 1149,
+    "niveauSonoreDBSPL": 43.04,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:45:13.723Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "temperatureDHT": 21,
+    "pression": 1024.44,
+    "humidite": 48,
+    "MQ_analogique": 1048,
+    "niveauSonoreDBSPL": 41.83,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:46:13.768Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "temperatureDHT": 21,
+    "pression": 1024.33,
+    "humidite": 48,
+    "MQ_analogique": 1123,
+    "niveauSonoreDBSPL": 43.57,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:47:13.747Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "temperatureDHT": 20.9,
+    "pression": 1024.33,
+    "humidite": 47,
+    "MQ_analogique": 1120,
+    "niveauSonoreDBSPL": 41.12,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:48:13.644Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "temperatureDHT": 20.9,
+    "pression": 1024.35,
+    "humidite": 47,
+    "MQ_analogique": 1109,
+    "niveauSonoreDBSPL": 43.07,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:49:13.752Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "temperatureDHT": 20.9,
+    "pression": 1024.41,
+    "humidite": 47,
+    "MQ_analogique": 1125,
+    "niveauSonoreDBSPL": 42.02,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:50:13.656Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "temperatureDHT": 20.9,
+    "pression": 1024.32,
+    "humidite": 47,
+    "MQ_analogique": 1113,
+    "niveauSonoreDBSPL": 43.05,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:51:13.773Z"
+  },
+  {
+    "temperatureBMP": 20.5,
+    "temperatureDHT": 20.9,
+    "pression": 1024.38,
+    "humidite": 47,
+    "MQ_analogique": 1096,
+    "niveauSonoreDBSPL": 43.69,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:52:13.672Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "temperatureDHT": 20.9,
+    "pression": 1024.32,
+    "humidite": 47,
+    "MQ_analogique": 1125,
+    "niveauSonoreDBSPL": 44.94,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:53:13.795Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "temperatureDHT": 20.9,
+    "pression": 1024.25,
+    "humidite": 47,
+    "MQ_analogique": 1125,
+    "niveauSonoreDBSPL": 44.14,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:54:13.788Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "temperatureDHT": 20.9,
+    "pression": 1024.31,
+    "humidite": 47,
+    "MQ_analogique": 1115,
+    "niveauSonoreDBSPL": 44.97,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:55:13.796Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "temperatureDHT": 20.9,
+    "pression": 1024.24,
+    "humidite": 47,
+    "MQ_analogique": 1119,
+    "niveauSonoreDBSPL": 46.88,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:56:13.599Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "temperatureDHT": 20.9,
+    "pression": 1024.28,
+    "humidite": 47,
+    "MQ_analogique": 1119,
+    "niveauSonoreDBSPL": 43.02,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:57:13.823Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "temperatureDHT": 20.9,
+    "pression": 1024.23,
+    "humidite": 47,
+    "MQ_analogique": 1108,
+    "niveauSonoreDBSPL": 44.62,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:58:13.717Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "temperatureDHT": 20.9,
+    "pression": 1024.28,
+    "humidite": 47,
+    "MQ_analogique": 1099,
+    "niveauSonoreDBSPL": 43.98,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T02:59:13.828Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "temperatureDHT": 20.9,
+    "pression": 1024.26,
+    "humidite": 47,
+    "MQ_analogique": 1102,
+    "niveauSonoreDBSPL": 43.19,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:00:14.041Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "temperatureDHT": 20.9,
+    "pression": 1024.18,
+    "humidite": 47,
+    "MQ_analogique": 1127,
+    "niveauSonoreDBSPL": 43.74,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:01:15.278Z"
+  },
+  {
+    "temperatureBMP": 20.4,
+    "temperatureDHT": 20.9,
+    "pression": 1024.25,
+    "humidite": 47,
+    "MQ_analogique": 1133,
+    "niveauSonoreDBSPL": 43.69,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:02:17.132Z"
+  },
+  {
+    "temperatureBMP": 20.3,
+    "temperatureDHT": 20.9,
+    "pression": 1024.22,
+    "humidite": 47,
+    "MQ_analogique": 1117,
+    "niveauSonoreDBSPL": 44.72,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:04:14.700Z"
+  },
+  {
+    "temperatureBMP": 20.3,
+    "temperatureDHT": 20.8,
+    "pression": 1024.27,
+    "humidite": 48,
+    "MQ_analogique": 1119,
+    "niveauSonoreDBSPL": 41.71,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:05:13.893Z"
+  },
+  {
+    "temperatureBMP": 20.3,
+    "temperatureDHT": 20.8,
+    "pression": 1024.29,
+    "humidite": 48,
+    "MQ_analogique": 1111,
+    "niveauSonoreDBSPL": 43.12,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:06:14.270Z"
+  },
+  {
+    "temperatureBMP": 20.2,
+    "temperatureDHT": 20.8,
+    "pression": 1024.2,
+    "humidite": 48,
+    "MQ_analogique": 1111,
+    "niveauSonoreDBSPL": 46.71,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:07:13.894Z"
+  },
+  {
+    "temperatureBMP": 20.2,
+    "temperatureDHT": 20.8,
+    "pression": 1024.24,
+    "humidite": 48,
+    "MQ_analogique": 1067,
+    "niveauSonoreDBSPL": 42.92,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:08:14.103Z"
+  },
+  {
+    "temperatureBMP": 20.2,
+    "temperatureDHT": 20.7,
+    "pression": 1024.26,
+    "humidite": 48,
+    "MQ_analogique": 1107,
+    "niveauSonoreDBSPL": 44.81,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:09:13.904Z"
+  },
+  {
+    "temperatureBMP": 20.2,
+    "temperatureDHT": 20.7,
+    "pression": 1024.26,
+    "humidite": 48,
+    "MQ_analogique": 1124,
+    "niveauSonoreDBSPL": 45.41,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:10:14.014Z"
+  },
+  {
+    "temperatureBMP": 20.2,
+    "temperatureDHT": 20.7,
+    "pression": 1024.23,
+    "humidite": 48,
+    "MQ_analogique": 1111,
+    "niveauSonoreDBSPL": 41.51,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:11:14.124Z"
+  },
+  {
+    "temperatureBMP": 20.2,
+    "temperatureDHT": 20.7,
+    "pression": 1024.23,
+    "humidite": 48,
+    "MQ_analogique": 1116,
+    "niveauSonoreDBSPL": 43.12,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:12:14.236Z"
+  },
+  {
+    "temperatureBMP": 20.2,
+    "temperatureDHT": 20.7,
+    "pression": 1024.26,
+    "humidite": 48,
+    "MQ_analogique": 1096,
+    "niveauSonoreDBSPL": 43.95,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:14:14.326Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.6,
+    "pression": 1024.2,
+    "humidite": 48,
+    "MQ_analogique": 1099,
+    "niveauSonoreDBSPL": 41.16,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:15:13.951Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.6,
+    "pression": 1024.16,
+    "humidite": 48,
+    "MQ_analogique": 1103,
+    "niveauSonoreDBSPL": 42.24,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:16:14.570Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.6,
+    "pression": 1024.18,
+    "humidite": 48,
+    "MQ_analogique": 1109,
+    "niveauSonoreDBSPL": 42.62,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:17:14.067Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.6,
+    "pression": 1024.24,
+    "humidite": 48,
+    "MQ_analogique": 1111,
+    "niveauSonoreDBSPL": 44,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:18:17.244Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.6,
+    "pression": 1024.26,
+    "humidite": 48,
+    "MQ_analogique": 985,
+    "niveauSonoreDBSPL": 41.08,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:19:14.194Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.6,
+    "pression": 1024.24,
+    "humidite": 48,
+    "MQ_analogique": 1096,
+    "niveauSonoreDBSPL": 43.53,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:20:15.111Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.6,
+    "pression": 1024.26,
+    "humidite": 48,
+    "MQ_analogique": 1101,
+    "niveauSonoreDBSPL": 45.08,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:21:13.996Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.6,
+    "pression": 1024.24,
+    "humidite": 48,
+    "MQ_analogique": 1110,
+    "niveauSonoreDBSPL": 44.76,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:22:14.652Z"
+  },
+  {
+    "temperatureBMP": 20.1,
+    "temperatureDHT": 20.5,
+    "pression": 1024.24,
+    "humidite": 48,
+    "MQ_analogique": 1108,
+    "niveauSonoreDBSPL": 44.53,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:24:14.123Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "temperatureDHT": 20.5,
+    "pression": 1024.16,
+    "humidite": 48,
+    "MQ_analogique": 1087,
+    "niveauSonoreDBSPL": 43.22,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:26:14.851Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "temperatureDHT": 20.6,
+    "pression": 1024.28,
+    "humidite": 48,
+    "MQ_analogique": 1095,
+    "niveauSonoreDBSPL": 44.39,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:27:14.248Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "temperatureDHT": 20.5,
+    "pression": 1024.25,
+    "humidite": 48,
+    "MQ_analogique": 1106,
+    "niveauSonoreDBSPL": 44.22,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:28:13.844Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "temperatureDHT": 20.5,
+    "pression": 1024.29,
+    "humidite": 48,
+    "MQ_analogique": 1008,
+    "niveauSonoreDBSPL": 41.44,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:29:14.056Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "temperatureDHT": 20.5,
+    "pression": 1024.31,
+    "humidite": 48,
+    "MQ_analogique": 1099,
+    "niveauSonoreDBSPL": 43.47,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:30:16.727Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "temperatureDHT": 20.5,
+    "pression": 1024.34,
+    "humidite": 48,
+    "MQ_analogique": 1099,
+    "niveauSonoreDBSPL": 43.57,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:31:15.300Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "temperatureDHT": 20.4,
+    "pression": 1024.25,
+    "humidite": 49,
+    "MQ_analogique": 1093,
+    "niveauSonoreDBSPL": 43.84,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:32:14.383Z"
+  },
+  {
+    "temperatureBMP": 20,
+    "temperatureDHT": 20.4,
+    "pression": 1024.31,
+    "humidite": 48,
+    "MQ_analogique": 1100,
+    "niveauSonoreDBSPL": 45.69,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:33:14.085Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.4,
+    "pression": 1024.27,
+    "humidite": 48,
+    "MQ_analogique": 1087,
+    "niveauSonoreDBSPL": 41.8,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:34:15.832Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.4,
+    "pression": 1024.22,
+    "humidite": 48,
+    "MQ_analogique": 974,
+    "niveauSonoreDBSPL": 46.67,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:35:13.896Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.4,
+    "pression": 1024.22,
+    "humidite": 48,
+    "MQ_analogique": 1295,
+    "niveauSonoreDBSPL": 42.97,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:36:14.408Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.4,
+    "pression": 1024.19,
+    "humidite": 49,
+    "MQ_analogique": 1065,
+    "niveauSonoreDBSPL": 41.99,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:37:13.909Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.4,
+    "pression": 1024.2,
+    "humidite": 49,
+    "MQ_analogique": 1096,
+    "niveauSonoreDBSPL": 42.21,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:38:13.815Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.4,
+    "pression": 1024.16,
+    "humidite": 49,
+    "MQ_analogique": 1099,
+    "niveauSonoreDBSPL": 45.72,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:39:15.768Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.4,
+    "pression": 1024.16,
+    "humidite": 49,
+    "MQ_analogique": 1075,
+    "niveauSonoreDBSPL": 46.9,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:41:14.696Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.4,
+    "pression": 1024.17,
+    "humidite": 49,
+    "MQ_analogique": 1093,
+    "niveauSonoreDBSPL": 41.57,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:43:13.952Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.3,
+    "pression": 1024.27,
+    "humidite": 49,
+    "MQ_analogique": 1091,
+    "niveauSonoreDBSPL": 43.31,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:44:13.986Z"
+  },
+  {
+    "temperatureBMP": 19.9,
+    "temperatureDHT": 20.4,
+    "pression": 1024.22,
+    "humidite": 49,
+    "MQ_analogique": 983,
+    "niveauSonoreDBSPL": 43.88,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:45:15.196Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.3,
+    "pression": 1024.25,
+    "humidite": 49,
+    "MQ_analogique": 1100,
+    "niveauSonoreDBSPL": 43,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:46:13.976Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.3,
+    "pression": 1024.28,
+    "humidite": 49,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 44.15,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:47:13.984Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.3,
+    "pression": 1024.3,
+    "humidite": 49,
+    "MQ_analogique": 1095,
+    "niveauSonoreDBSPL": 41.65,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:48:15.453Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.3,
+    "pression": 1024.26,
+    "humidite": 49,
+    "MQ_analogique": 751,
+    "niveauSonoreDBSPL": 42.23,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:49:14.426Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.3,
+    "pression": 1024.22,
+    "humidite": 49,
+    "MQ_analogique": 1081,
+    "niveauSonoreDBSPL": 43.16,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:50:14.004Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.3,
+    "pression": 1024.25,
+    "humidite": 49,
+    "MQ_analogique": 1092,
+    "niveauSonoreDBSPL": 43.48,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:52:14.890Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.3,
+    "pression": 1024.23,
+    "humidite": 49,
+    "MQ_analogique": 1087,
+    "niveauSonoreDBSPL": 43.37,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:54:14.037Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.3,
+    "pression": 1024.26,
+    "humidite": 49,
+    "MQ_analogique": 1056,
+    "niveauSonoreDBSPL": 45.03,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:55:14.249Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.3,
+    "pression": 1024.2,
+    "humidite": 49,
+    "MQ_analogique": 1163,
+    "niveauSonoreDBSPL": 43.79,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:56:14.056Z"
+  },
+  {
+    "temperatureBMP": 19.8,
+    "temperatureDHT": 20.2,
+    "pression": 1024.23,
+    "humidite": 49,
+    "MQ_analogique": 1023,
+    "niveauSonoreDBSPL": 45.16,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:57:14.267Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.2,
+    "pression": 1024.29,
+    "humidite": 49,
+    "MQ_analogique": 1086,
+    "niveauSonoreDBSPL": 41.91,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T03:58:14.146Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.2,
+    "pression": 1024.26,
+    "humidite": 49,
+    "MQ_analogique": 979,
+    "niveauSonoreDBSPL": 44.98,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:00:14.861Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.2,
+    "pression": 1024.26,
+    "humidite": 49,
+    "MQ_analogique": 1081,
+    "niveauSonoreDBSPL": 44.87,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:01:14.089Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.28,
+    "humidite": 49,
+    "MQ_analogique": 1082,
+    "niveauSonoreDBSPL": 41.9,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:02:14.197Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.25,
+    "humidite": 49,
+    "MQ_analogique": 1080,
+    "niveauSonoreDBSPL": 44.58,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:03:14.311Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.29,
+    "humidite": 49,
+    "MQ_analogique": 1031,
+    "niveauSonoreDBSPL": 43.71,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:04:14.113Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.28,
+    "humidite": 49,
+    "MQ_analogique": 1100,
+    "niveauSonoreDBSPL": 46.04,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:05:13.914Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.28,
+    "humidite": 49,
+    "MQ_analogique": 1072,
+    "niveauSonoreDBSPL": 46.18,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:06:14.229Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.2,
+    "pression": 1024.32,
+    "humidite": 49,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 44.59,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:07:14.545Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.2,
+    "pression": 1024.29,
+    "humidite": 49,
+    "MQ_analogique": 1079,
+    "niveauSonoreDBSPL": 46.14,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:08:14.242Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.2,
+    "pression": 1024.29,
+    "humidite": 49,
+    "MQ_analogique": 1082,
+    "niveauSonoreDBSPL": 46.27,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:09:15.604Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.2,
+    "pression": 1024.31,
+    "humidite": 49,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 47.83,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:10:14.567Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.39,
+    "humidite": 49,
+    "MQ_analogique": 1078,
+    "niveauSonoreDBSPL": 48.2,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:11:15.191Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.36,
+    "humidite": 49,
+    "MQ_analogique": 1072,
+    "niveauSonoreDBSPL": 46.25,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:12:14.077Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.34,
+    "humidite": 49,
+    "MQ_analogique": 1065,
+    "niveauSonoreDBSPL": 46.04,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:13:15.916Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.32,
+    "humidite": 49,
+    "MQ_analogique": 1076,
+    "niveauSonoreDBSPL": 45.56,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:14:17.492Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.4,
+    "humidite": 49,
+    "MQ_analogique": 1075,
+    "niveauSonoreDBSPL": 48.46,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:15:18.702Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.31,
+    "humidite": 49,
+    "MQ_analogique": 1070,
+    "niveauSonoreDBSPL": 46.87,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:16:35.299Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20.1,
+    "pression": 1024.39,
+    "humidite": 49,
+    "MQ_analogique": 1175,
+    "niveauSonoreDBSPL": 46.91,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:17:14.006Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20.1,
+    "pression": 1024.38,
+    "humidite": 49,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 48.94,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:18:14.113Z"
+  },
+  {
+    "temperatureBMP": 19.7,
+    "temperatureDHT": 20.1,
+    "pression": 1024.38,
+    "humidite": 49,
+    "MQ_analogique": 1078,
+    "niveauSonoreDBSPL": 45.11,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:19:14.226Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20.1,
+    "pression": 1024.32,
+    "humidite": 49,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 44.52,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:20:14.743Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20.1,
+    "pression": 1024.32,
+    "humidite": 49,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 47.53,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:21:14.035Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20.1,
+    "pression": 1024.29,
+    "humidite": 49,
+    "MQ_analogique": 1078,
+    "niveauSonoreDBSPL": 44.23,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:22:14.252Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20.1,
+    "pression": 1024.3,
+    "humidite": 49,
+    "MQ_analogique": 936,
+    "niveauSonoreDBSPL": 46.49,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:23:14.050Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20.1,
+    "pression": 1024.25,
+    "humidite": 49,
+    "MQ_analogique": 1068,
+    "niveauSonoreDBSPL": 48.51,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:26:14.175Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20,
+    "pression": 1024.23,
+    "humidite": 50,
+    "MQ_analogique": 1079,
+    "niveauSonoreDBSPL": 46.31,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:27:14.078Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1062,
+    "niveauSonoreDBSPL": 43.98,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:28:16.444Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20.1,
+    "pression": 1024.28,
+    "humidite": 49,
+    "MQ_analogique": 1427,
+    "niveauSonoreDBSPL": 47.89,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:29:15.323Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20,
+    "pression": 1024.25,
+    "humidite": 50,
+    "MQ_analogique": 1091,
+    "niveauSonoreDBSPL": 46.83,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:32:15.446Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20,
+    "pression": 1024.2,
+    "humidite": 50,
+    "MQ_analogique": 1013,
+    "niveauSonoreDBSPL": 47.22,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:33:14.134Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20,
+    "pression": 1024.15,
+    "humidite": 50,
+    "MQ_analogique": 1061,
+    "niveauSonoreDBSPL": 45.26,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:34:14.135Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.22,
+    "humidite": 50,
+    "MQ_analogique": 1053,
+    "niveauSonoreDBSPL": 46.03,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:35:14.163Z"
+  },
+  {
+    "temperatureBMP": 19.6,
+    "temperatureDHT": 20,
+    "pression": 1024.16,
+    "humidite": 50,
+    "MQ_analogique": 1062,
+    "niveauSonoreDBSPL": 42.53,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:36:14.146Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.18,
+    "humidite": 50,
+    "MQ_analogique": 1062,
+    "niveauSonoreDBSPL": 48.34,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:37:14.022Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.18,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 45.68,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:39:13.963Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.07,
+    "humidite": 50,
+    "MQ_analogique": 1067,
+    "niveauSonoreDBSPL": 46.16,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:40:14.376Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.14,
+    "humidite": 50,
+    "MQ_analogique": 1061,
+    "niveauSonoreDBSPL": 48.26,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:41:15.827Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.18,
+    "humidite": 49,
+    "MQ_analogique": 1061,
+    "niveauSonoreDBSPL": 49.42,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:42:14.190Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.12,
+    "humidite": 50,
+    "MQ_analogique": 1012,
+    "niveauSonoreDBSPL": 46.08,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:43:14.208Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.1,
+    "humidite": 50,
+    "MQ_analogique": 1063,
+    "niveauSonoreDBSPL": 45.52,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:44:14.003Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.11,
+    "humidite": 50,
+    "MQ_analogique": 1063,
+    "niveauSonoreDBSPL": 47.12,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:45:14.011Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20.1,
+    "pression": 1024.2,
+    "humidite": 50,
+    "MQ_analogique": 1083,
+    "niveauSonoreDBSPL": 44.52,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:46:14.632Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.18,
+    "humidite": 50,
+    "MQ_analogique": 1059,
+    "niveauSonoreDBSPL": 46.66,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:47:14.436Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.15,
+    "humidite": 50,
+    "MQ_analogique": 969,
+    "niveauSonoreDBSPL": 45,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:48:14.830Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.15,
+    "humidite": 50,
+    "MQ_analogique": 1079,
+    "niveauSonoreDBSPL": 44.92,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:49:15.271Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.16,
+    "humidite": 50,
+    "MQ_analogique": 1067,
+    "niveauSonoreDBSPL": 44.26,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:50:14.047Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.18,
+    "humidite": 50,
+    "MQ_analogique": 1079,
+    "niveauSonoreDBSPL": 45.29,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:51:17.145Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.23,
+    "humidite": 50,
+    "MQ_analogique": 1407,
+    "niveauSonoreDBSPL": 45.41,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:52:17.151Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 959,
+    "niveauSonoreDBSPL": 47.19,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:53:14.108Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 20,
+    "pression": 1024.22,
+    "humidite": 50,
+    "MQ_analogique": 1064,
+    "niveauSonoreDBSPL": 46.75,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:54:14.178Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 20,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 47.87,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T04:56:14.708Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.2,
+    "humidite": 50,
+    "MQ_analogique": 1101,
+    "niveauSonoreDBSPL": 46.01,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:00:17.202Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1078,
+    "niveauSonoreDBSPL": 45.57,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:01:14.233Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.19,
+    "humidite": 50,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 45.82,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:02:14.135Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.22,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 46.78,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:03:15.173Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.22,
+    "humidite": 50,
+    "MQ_analogique": 1107,
+    "niveauSonoreDBSPL": 42.61,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:04:14.153Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.24,
+    "humidite": 50,
+    "MQ_analogique": 1075,
+    "niveauSonoreDBSPL": 47.93,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:05:14.363Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1072,
+    "niveauSonoreDBSPL": 44.87,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:06:14.170Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.19,
+    "humidite": 50,
+    "MQ_analogique": 1079,
+    "niveauSonoreDBSPL": 47.44,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:07:14.177Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.15,
+    "humidite": 50,
+    "MQ_analogique": 1086,
+    "niveauSonoreDBSPL": 47.92,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:08:14.185Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.18,
+    "humidite": 50,
+    "MQ_analogique": 1059,
+    "niveauSonoreDBSPL": 47.56,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:09:17.260Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.19,
+    "humidite": 50,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 45.61,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:10:16.040Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.13,
+    "humidite": 50,
+    "MQ_analogique": 1067,
+    "niveauSonoreDBSPL": 45.55,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:11:15.640Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.19,
+    "humidite": 50,
+    "MQ_analogique": 1079,
+    "niveauSonoreDBSPL": 46.19,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:12:14.212Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.1,
+    "humidite": 50,
+    "MQ_analogique": 1079,
+    "niveauSonoreDBSPL": 48.38,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:13:15.655Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.15,
+    "humidite": 50,
+    "MQ_analogique": 1076,
+    "niveauSonoreDBSPL": 45.8,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:14:18.731Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.13,
+    "humidite": 50,
+    "MQ_analogique": 1068,
+    "niveauSonoreDBSPL": 45.39,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:15:15.464Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.13,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 46.55,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:16:14.241Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.13,
+    "humidite": 50,
+    "MQ_analogique": 1074,
+    "niveauSonoreDBSPL": 47.95,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:17:16.917Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.11,
+    "humidite": 50,
+    "MQ_analogique": 1068,
+    "niveauSonoreDBSPL": 47.06,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:18:17.125Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.1,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 46.72,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:19:16.113Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.09,
+    "humidite": 50,
+    "MQ_analogique": 1060,
+    "niveauSonoreDBSPL": 45.98,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:20:15.974Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.06,
+    "humidite": 50,
+    "MQ_analogique": 1063,
+    "niveauSonoreDBSPL": 47.44,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:21:14.480Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.06,
+    "humidite": 50,
+    "MQ_analogique": 1065,
+    "niveauSonoreDBSPL": 46.13,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:22:18.281Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.15,
+    "humidite": 50,
+    "MQ_analogique": 1063,
+    "niveauSonoreDBSPL": 44.52,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:23:14.702Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.08,
+    "humidite": 50,
+    "MQ_analogique": 1059,
+    "niveauSonoreDBSPL": 44.02,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:24:16.965Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.07,
+    "humidite": 50,
+    "MQ_analogique": 1076,
+    "niveauSonoreDBSPL": 46.92,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:25:14.309Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.06,
+    "humidite": 50,
+    "MQ_analogique": 1017,
+    "niveauSonoreDBSPL": 48.08,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:26:14.420Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.1,
+    "humidite": 50,
+    "MQ_analogique": 1055,
+    "niveauSonoreDBSPL": 44.15,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:27:14.325Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.13,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 45.17,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:28:16.655Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.11,
+    "humidite": 50,
+    "MQ_analogique": 1065,
+    "niveauSonoreDBSPL": 46,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:30:14.147Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.7,
+    "pression": 1024.1,
+    "humidite": 50,
+    "MQ_analogique": 1093,
+    "niveauSonoreDBSPL": 44.27,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:32:14.363Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.06,
+    "humidite": 50,
+    "MQ_analogique": 1061,
+    "niveauSonoreDBSPL": 46.6,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:33:15.901Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.06,
+    "humidite": 50,
+    "MQ_analogique": 1068,
+    "niveauSonoreDBSPL": 45.27,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:34:14.704Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024,
+    "humidite": 50,
+    "MQ_analogique": 1055,
+    "niveauSonoreDBSPL": 47.61,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:35:14.388Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.09,
+    "humidite": 50,
+    "MQ_analogique": 1055,
+    "niveauSonoreDBSPL": 44.32,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:36:26.225Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.05,
+    "humidite": 50,
+    "MQ_analogique": 1059,
+    "niveauSonoreDBSPL": 45.92,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:37:14.486Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.03,
+    "humidite": 50,
+    "MQ_analogique": 1070,
+    "niveauSonoreDBSPL": 44.87,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:38:15.637Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1023.93,
+    "humidite": 50,
+    "MQ_analogique": 1063,
+    "niveauSonoreDBSPL": 44.27,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:39:14.421Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1023.98,
+    "humidite": 50,
+    "MQ_analogique": 1043,
+    "niveauSonoreDBSPL": 47.76,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:40:17.293Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1023.98,
+    "humidite": 50,
+    "MQ_analogique": 1059,
+    "niveauSonoreDBSPL": 42.63,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:41:17.296Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1023.97,
+    "humidite": 50,
+    "MQ_analogique": 1085,
+    "niveauSonoreDBSPL": 45.56,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:42:17.511Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.02,
+    "humidite": 50,
+    "MQ_analogique": 1061,
+    "niveauSonoreDBSPL": 46.78,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:43:14.241Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.06,
+    "humidite": 50,
+    "MQ_analogique": 1135,
+    "niveauSonoreDBSPL": 46.42,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:44:14.250Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.09,
+    "humidite": 50,
+    "MQ_analogique": 1062,
+    "niveauSonoreDBSPL": 47.2,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:45:14.666Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1023.95,
+    "humidite": 50,
+    "MQ_analogique": 1045,
+    "niveauSonoreDBSPL": 44.25,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:48:14.276Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.05,
+    "humidite": 50,
+    "MQ_analogique": 1060,
+    "niveauSonoreDBSPL": 44.24,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:51:14.316Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.01,
+    "humidite": 50,
+    "MQ_analogique": 1063,
+    "niveauSonoreDBSPL": 47.34,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:52:14.315Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.05,
+    "humidite": 50,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 44.37,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:53:14.316Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.05,
+    "humidite": 50,
+    "MQ_analogique": 1063,
+    "niveauSonoreDBSPL": 44.97,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:54:14.323Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.08,
+    "humidite": 50,
+    "MQ_analogique": 1020,
+    "niveauSonoreDBSPL": 45.42,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:56:32.705Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.08,
+    "humidite": 49,
+    "MQ_analogique": 1065,
+    "niveauSonoreDBSPL": 46.61,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:57:15.778Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.01,
+    "humidite": 50,
+    "MQ_analogique": 1037,
+    "niveauSonoreDBSPL": 44.86,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T05:59:14.359Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.05,
+    "humidite": 50,
+    "MQ_analogique": 1055,
+    "niveauSonoreDBSPL": 46.2,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:00:14.162Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.14,
+    "humidite": 50,
+    "MQ_analogique": 1070,
+    "niveauSonoreDBSPL": 44.24,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:01:14.381Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.01,
+    "humidite": 50,
+    "MQ_analogique": 1052,
+    "niveauSonoreDBSPL": 45.33,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:03:14.291Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.11,
+    "humidite": 50,
+    "MQ_analogique": 1070,
+    "niveauSonoreDBSPL": 47.07,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:04:14.398Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.12,
+    "humidite": 50,
+    "MQ_analogique": 1067,
+    "niveauSonoreDBSPL": 44.39,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:05:14.408Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.12,
+    "humidite": 50,
+    "MQ_analogique": 1055,
+    "niveauSonoreDBSPL": 44.98,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:07:14.626Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.11,
+    "humidite": 50,
+    "MQ_analogique": 1045,
+    "niveauSonoreDBSPL": 47.54,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:08:14.431Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.1,
+    "humidite": 50,
+    "MQ_analogique": 1205,
+    "niveauSonoreDBSPL": 44.67,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:10:14.648Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.07,
+    "humidite": 50,
+    "MQ_analogique": 1049,
+    "niveauSonoreDBSPL": 45.19,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:12:14.458Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.04,
+    "humidite": 50,
+    "MQ_analogique": 1068,
+    "niveauSonoreDBSPL": 45.28,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:15:14.477Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.12,
+    "humidite": 50,
+    "MQ_analogique": 1065,
+    "niveauSonoreDBSPL": 46.32,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:18:14.298Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.04,
+    "humidite": 50,
+    "MQ_analogique": 1067,
+    "niveauSonoreDBSPL": 46.71,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:19:14.304Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.11,
+    "humidite": 50,
+    "MQ_analogique": 1014,
+    "niveauSonoreDBSPL": 47.39,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:20:14.516Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.12,
+    "humidite": 50,
+    "MQ_analogique": 1052,
+    "niveauSonoreDBSPL": 48.91,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:20:32.753Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.16,
+    "humidite": 50,
+    "MQ_analogique": 1061,
+    "niveauSonoreDBSPL": 45.77,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:24:14.383Z"
+  },
+  {
+    "temperatureBMP": 19.5,
+    "temperatureDHT": 19.9,
+    "pression": 1024.13,
+    "humidite": 50,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 47.6,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:26:14.357Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 47.97,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:28:14.169Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 45.33,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:29:14.382Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.9,
+    "pression": 1024.18,
+    "humidite": 50,
+    "MQ_analogique": 1005,
+    "niveauSonoreDBSPL": 45.89,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:30:17.266Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.17,
+    "humidite": 50,
+    "MQ_analogique": 1195,
+    "niveauSonoreDBSPL": 45.53,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:31:14.396Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.14,
+    "humidite": 50,
+    "MQ_analogique": 1081,
+    "niveauSonoreDBSPL": 44.72,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:32:14.406Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.25,
+    "humidite": 50,
+    "MQ_analogique": 1365,
+    "niveauSonoreDBSPL": 46.04,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:34:14.621Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.19,
+    "humidite": 50,
+    "MQ_analogique": 1079,
+    "niveauSonoreDBSPL": 45.52,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:37:14.548Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.24,
+    "humidite": 50,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 48.13,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:39:14.455Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 20.1,
+    "pression": 1024.28,
+    "humidite": 50,
+    "MQ_analogique": 1081,
+    "niveauSonoreDBSPL": 45.14,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:40:14.466Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.24,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 44.73,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:44:17.770Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.22,
+    "humidite": 50,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 45.09,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:44:19.001Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1942,
+    "niveauSonoreDBSPL": 45,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:45:16.758Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.35,
+    "humidite": 50,
+    "MQ_analogique": 1093,
+    "niveauSonoreDBSPL": 44.44,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:46:14.910Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.26,
+    "humidite": 50,
+    "MQ_analogique": 1119,
+    "niveauSonoreDBSPL": 47.53,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:47:14.517Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.26,
+    "humidite": 50,
+    "MQ_analogique": 1056,
+    "niveauSonoreDBSPL": 49.39,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:48:14.525Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.31,
+    "humidite": 50,
+    "MQ_analogique": 994,
+    "niveauSonoreDBSPL": 47.34,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:49:14.531Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.27,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 45.65,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:50:32.895Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.29,
+    "humidite": 50,
+    "MQ_analogique": 1079,
+    "niveauSonoreDBSPL": 49.56,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:52:14.556Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.26,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 48.2,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:53:14.565Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.27,
+    "humidite": 50,
+    "MQ_analogique": 1051,
+    "niveauSonoreDBSPL": 45.54,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:54:14.570Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.18,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 48.33,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:56:14.582Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.7,
+    "pression": 1024.25,
+    "humidite": 50,
+    "MQ_analogique": 1103,
+    "niveauSonoreDBSPL": 43.5,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:57:17.557Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.7,
+    "pression": 1024.16,
+    "humidite": 50,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 45.6,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:58:16.654Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.7,
+    "pression": 1024.23,
+    "humidite": 50,
+    "MQ_analogique": 1061,
+    "niveauSonoreDBSPL": 47.56,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T06:59:14.402Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.7,
+    "pression": 1024.18,
+    "humidite": 50,
+    "MQ_analogique": 1062,
+    "niveauSonoreDBSPL": 43.77,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:00:14.407Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.7,
+    "pression": 1024.25,
+    "humidite": 50,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 44.97,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:01:14.444Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.3,
+    "humidite": 50,
+    "MQ_analogique": 1059,
+    "niveauSonoreDBSPL": 44.35,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:04:14.443Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.29,
+    "humidite": 50,
+    "MQ_analogique": 1083,
+    "niveauSonoreDBSPL": 49.07,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:06:14.633Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.32,
+    "humidite": 50,
+    "MQ_analogique": 1079,
+    "niveauSonoreDBSPL": 46.53,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:07:14.463Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.26,
+    "humidite": 50,
+    "MQ_analogique": 1068,
+    "niveauSonoreDBSPL": 46.68,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:08:15.906Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.29,
+    "humidite": 50,
+    "MQ_analogique": 1093,
+    "niveauSonoreDBSPL": 44.45,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:09:14.474Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.35,
+    "humidite": 50,
+    "MQ_analogique": 1062,
+    "niveauSonoreDBSPL": 43.75,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:12:14.498Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.26,
+    "humidite": 50,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 43.85,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:13:15.010Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.23,
+    "humidite": 50,
+    "MQ_analogique": 1397,
+    "niveauSonoreDBSPL": 44.21,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:14:14.935Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.25,
+    "humidite": 50,
+    "MQ_analogique": 1068,
+    "niveauSonoreDBSPL": 45.61,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:15:14.522Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.2,
+    "humidite": 50,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 40.12,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:16:14.325Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.2,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 44.4,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:17:14.948Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.18,
+    "humidite": 50,
+    "MQ_analogique": 1069,
+    "niveauSonoreDBSPL": 42.34,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:18:14.543Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.14,
+    "humidite": 50,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 47.08,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:20:14.559Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.13,
+    "humidite": 50,
+    "MQ_analogique": 1081,
+    "niveauSonoreDBSPL": 44.21,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:21:14.359Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.15,
+    "humidite": 50,
+    "MQ_analogique": 1086,
+    "niveauSonoreDBSPL": 45.19,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:23:14.583Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.7,
+    "pression": 1024.13,
+    "humidite": 50,
+    "MQ_analogique": 995,
+    "niveauSonoreDBSPL": 42.18,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:24:14.386Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.15,
+    "humidite": 50,
+    "MQ_analogique": 1043,
+    "niveauSonoreDBSPL": 43.65,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:27:14.407Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.18,
+    "humidite": 50,
+    "MQ_analogique": 1068,
+    "niveauSonoreDBSPL": 46.33,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:29:33.007Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.7,
+    "pression": 1024.23,
+    "humidite": 50,
+    "MQ_analogique": 1049,
+    "niveauSonoreDBSPL": 43.98,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:31:14.845Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.24,
+    "humidite": 50,
+    "MQ_analogique": 1065,
+    "niveauSonoreDBSPL": 43.68,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:31:15.134Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.6,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1173,
+    "niveauSonoreDBSPL": 44.07,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:32:14.650Z"
+  },
+  {
+    "temperatureBMP": 19.2,
+    "temperatureDHT": 19.7,
+    "pression": 1024.31,
+    "humidite": 50,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 47.7,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:33:16.299Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.27,
+    "humidite": 50,
+    "MQ_analogique": 1075,
+    "niveauSonoreDBSPL": 42.88,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:35:15.226Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.27,
+    "humidite": 50,
+    "MQ_analogique": 1041,
+    "niveauSonoreDBSPL": 46.32,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:36:33.109Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.27,
+    "humidite": 50,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 43.82,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:37:33.319Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.28,
+    "humidite": 50,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 43.82,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:38:33.025Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1066,
+    "niveauSonoreDBSPL": 41.34,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:39:33.336Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.24,
+    "humidite": 50,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 43.88,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:40:33.141Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.22,
+    "humidite": 50,
+    "MQ_analogique": 1066,
+    "niveauSonoreDBSPL": 44.92,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:41:33.041Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.27,
+    "humidite": 50,
+    "MQ_analogique": 1054,
+    "niveauSonoreDBSPL": 43.87,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:42:33.359Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.26,
+    "humidite": 50,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 44.45,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:43:33.368Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.22,
+    "humidite": 50,
+    "MQ_analogique": 1077,
+    "niveauSonoreDBSPL": 44.04,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:44:33.374Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1075,
+    "niveauSonoreDBSPL": 46.73,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:45:32.974Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.25,
+    "humidite": 50,
+    "MQ_analogique": 1052,
+    "niveauSonoreDBSPL": 46.48,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:46:33.388Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.27,
+    "humidite": 50,
+    "MQ_analogique": 1062,
+    "niveauSonoreDBSPL": 45.97,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:47:33.191Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.24,
+    "humidite": 50,
+    "MQ_analogique": 1071,
+    "niveauSonoreDBSPL": 44.7,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:48:33.425Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.23,
+    "humidite": 50,
+    "MQ_analogique": 1072,
+    "niveauSonoreDBSPL": 45.77,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:49:33.409Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.25,
+    "humidite": 50,
+    "MQ_analogique": 1078,
+    "niveauSonoreDBSPL": 46.1,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:50:33.014Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.25,
+    "humidite": 50,
+    "MQ_analogique": 1067,
+    "niveauSonoreDBSPL": 45.56,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:51:33.014Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.28,
+    "humidite": 50,
+    "MQ_analogique": 1055,
+    "niveauSonoreDBSPL": 43.46,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:52:33.023Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.38,
+    "humidite": 50,
+    "MQ_analogique": 1045,
+    "niveauSonoreDBSPL": 44.23,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:53:33.032Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.23,
+    "humidite": 50,
+    "MQ_analogique": 1049,
+    "niveauSonoreDBSPL": 48.74,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:54:33.447Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.25,
+    "humidite": 50,
+    "MQ_analogique": 1081,
+    "niveauSonoreDBSPL": 43.17,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:55:33.046Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.3,
+    "humidite": 50,
+    "MQ_analogique": 1068,
+    "niveauSonoreDBSPL": 44.67,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:56:33.051Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1067,
+    "niveauSonoreDBSPL": 44.7,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:57:33.267Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.26,
+    "humidite": 50,
+    "MQ_analogique": 1048,
+    "niveauSonoreDBSPL": 44.07,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:58:33.480Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": null,
+    "pression": 1024.3,
+    "humidite": null,
+    "MQ_analogique": 1066,
+    "niveauSonoreDBSPL": 42.78,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T07:59:33.076Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.23,
+    "humidite": 50,
+    "MQ_analogique": 1066,
+    "niveauSonoreDBSPL": 48.84,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:00:33.293Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.28,
+    "humidite": 50,
+    "MQ_analogique": 1049,
+    "niveauSonoreDBSPL": 43.45,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:01:33.090Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.26,
+    "humidite": 50,
+    "MQ_analogique": 1049,
+    "niveauSonoreDBSPL": 42.25,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:02:33.099Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.16,
+    "humidite": 50,
+    "MQ_analogique": 1056,
+    "niveauSonoreDBSPL": 45.5,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:03:33.313Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.24,
+    "humidite": 50,
+    "MQ_analogique": 1076,
+    "niveauSonoreDBSPL": 46.2,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:04:33.314Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.23,
+    "humidite": 50,
+    "MQ_analogique": 1056,
+    "niveauSonoreDBSPL": 45.66,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:05:33.122Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.7,
+    "pression": 1024.24,
+    "humidite": 50,
+    "MQ_analogique": 1084,
+    "niveauSonoreDBSPL": 42.92,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:06:33.329Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.25,
+    "humidite": 50,
+    "MQ_analogique": 1006,
+    "niveauSonoreDBSPL": 45.56,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:07:33.136Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.31,
+    "humidite": 50,
+    "MQ_analogique": 1039,
+    "niveauSonoreDBSPL": 42.05,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:08:33.142Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.7,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1052,
+    "niveauSonoreDBSPL": 43.35,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:09:33.352Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.15,
+    "humidite": 50,
+    "MQ_analogique": 1055,
+    "niveauSonoreDBSPL": 46.45,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:10:33.364Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.22,
+    "humidite": 50,
+    "MQ_analogique": 1053,
+    "niveauSonoreDBSPL": 40.48,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:11:33.369Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.7,
+    "pression": 1024.26,
+    "humidite": 50,
+    "MQ_analogique": 1006,
+    "niveauSonoreDBSPL": 43.98,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:12:33.174Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.7,
+    "pression": 1024.18,
+    "humidite": 50,
+    "MQ_analogique": 1043,
+    "niveauSonoreDBSPL": 45.53,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:13:33.387Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.7,
+    "pression": 1024.17,
+    "humidite": 50,
+    "MQ_analogique": 1043,
+    "niveauSonoreDBSPL": 41.63,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:14:33.400Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.7,
+    "pression": 1024.24,
+    "humidite": 50,
+    "MQ_analogique": 1056,
+    "niveauSonoreDBSPL": 43.89,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:15:33.195Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.7,
+    "pression": 1024.24,
+    "humidite": 50,
+    "MQ_analogique": 1043,
+    "niveauSonoreDBSPL": 45.02,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:16:33.303Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.24,
+    "humidite": 50,
+    "MQ_analogique": 1050,
+    "niveauSonoreDBSPL": 43.67,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:17:33.418Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.7,
+    "pression": 1024.25,
+    "humidite": 50,
+    "MQ_analogique": 1173,
+    "niveauSonoreDBSPL": 43.7,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:18:33.422Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.19,
+    "humidite": 50,
+    "MQ_analogique": 1043,
+    "niveauSonoreDBSPL": 45.7,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:19:33.430Z"
+  },
+  {
+    "temperatureBMP": 19.4,
+    "temperatureDHT": 19.8,
+    "pression": 1024.26,
+    "humidite": 50,
+    "MQ_analogique": 1047,
+    "niveauSonoreDBSPL": 45.19,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:20:33.231Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.8,
+    "pression": 1024.18,
+    "humidite": 49,
+    "MQ_analogique": 1054,
+    "niveauSonoreDBSPL": 44.62,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:21:33.341Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.22,
+    "humidite": 50,
+    "MQ_analogique": 1047,
+    "niveauSonoreDBSPL": 47.78,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:22:33.265Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.27,
+    "humidite": 50,
+    "MQ_analogique": 1050,
+    "niveauSonoreDBSPL": 44.93,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:23:33.049Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.27,
+    "humidite": 50,
+    "MQ_analogique": 1044,
+    "niveauSonoreDBSPL": 43.36,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:24:33.264Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.23,
+    "humidite": 50,
+    "MQ_analogique": 1043,
+    "niveauSonoreDBSPL": 43.19,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:25:33.477Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.22,
+    "humidite": 50,
+    "MQ_analogique": 1035,
+    "niveauSonoreDBSPL": 45.77,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:26:33.073Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.21,
+    "humidite": 50,
+    "MQ_analogique": 1023,
+    "niveauSonoreDBSPL": 44.82,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:27:33.900Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.22,
+    "humidite": 50,
+    "MQ_analogique": 1036,
+    "niveauSonoreDBSPL": 44.5,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:28:34.517Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.28,
+    "humidite": 50,
+    "MQ_analogique": 1047,
+    "niveauSonoreDBSPL": 44.41,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:29:34.323Z"
+  },
+  {
+    "temperatureBMP": 19.3,
+    "temperatureDHT": 19.7,
+    "pression": 1024.27,
+    "humidite": 50,
+    "MQ_analogique": 755,
+    "niveauSonoreDBSPL": 44.46,
+    "gps": "50.559110, 5.465493",
+    "timestamp": "2024-12-27T08:30:35.971Z"
+  }
+  ]
